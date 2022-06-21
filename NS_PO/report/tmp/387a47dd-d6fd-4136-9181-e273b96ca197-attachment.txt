@@ -1,0 +1,33 @@
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#NS_MENU_ID0-item1 > a')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#NS_MENU_ID0-item1 > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.08 秒
+INFO     TestMyLog:BasePage.py:75 采购单号 查找元素 ('css selector', '#Transaction_NUMBERTEXT')
+INFO     TestMyLog:BasePage.py:100 采购单号 在元素 ('css selector', '#Transaction_NUMBERTEXT') 中输入文本: PO000013491
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 提交 查找元素 ('css selector', '#secondarysubmitter')
+INFO     TestMyLog:BasePage.py:127 提交 在元素 ('css selector', '#secondarysubmitter') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 查看 查找元素 ('css selector', '#row0 > td.listtextctr.uir-list-row-cell > a.dottedlink.viewitem')
+INFO     TestMyLog:BasePage.py:127 查看 在元素 ('css selector', '#row0 > td.listtextctr.uir-list-row-cell > a.dottedlink.viewitem') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.04 秒
+INFO     TestMyLog:BasePage.py:75 操作 查找元素 ('css selector', '#spn_ACTIONMENU_d1 > span.pgm_bg > a')
+INFO     TestMyLog:BasePage.py:149 操作 在元素 ('css selector', '#spn_ACTIONMENU_d1 > span.pgm_bg > a') 上悬停
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 制作副本 查找元素 ('css selector', '#nl2 > a > span')
+INFO     TestMyLog:BasePage.py:127 制作副本 在元素 ('css selector', '#nl2 > a > span') 中点击
+INFO     TestMyLog:BasePage.py:239 切换到默认页面
+INFO     TestMyLog:BasePage.py:45 等待时长:0.04 秒
+INFO     TestMyLog:BasePage.py:75 保存 查找元素 ('css selector', '#btn_secondarymultibutton_submitter')
+INFO     TestMyLog:BasePage.py:127 保存 在元素 ('css selector', '#btn_secondarymultibutton_submitter') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 确认 查找元素 ('css selector', '#custpage_purchase_order')
+INFO     TestMyLog:BasePage.py:127 确认 在元素 ('css selector', '#custpage_purchase_order') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.07 秒
+INFO     TestMyLog:BasePage.py:75 审批 查找元素 ('css selector', '#custpageworkflow398')
+INFO     TestMyLog:BasePage.py:127 审批 在元素 ('css selector', '#custpageworkflow398') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 采购单号 查找元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div.uir-record-id')
+INFO     TestMyLog:BasePage.py:163 采购单号 在元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div.uir-record-id') 中获取文本
+INFO     TestMyLog:BasePage.py:166 采购单号 元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div.uir-record-id') 的文本内容为 PO000013663
+INFO     TestMyLog:BasePage.py:293 数据写入成功

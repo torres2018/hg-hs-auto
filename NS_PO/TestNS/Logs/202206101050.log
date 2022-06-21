@@ -1,0 +1,37 @@
+2022-06-10 10:51:17,821 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:51:17,821 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#NS_MENU_ID0-item1 > a')
+2022-06-10 10:51:17,827 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#NS_MENU_ID0-item1 > a') 中点击
+2022-06-10 10:51:21,312 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-06-10 10:51:21,312 - TestMyLog - INFO - 采购单号 查找元素 ('css selector', '#Transaction_NUMBERTEXT')
+2022-06-10 10:51:21,320 - TestMyLog - INFO - 采购单号 在元素 ('css selector', '#Transaction_NUMBERTEXT') 中输入文本: PO000013491
+2022-06-10 10:51:21,500 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-06-10 10:51:21,501 - TestMyLog - INFO - 提交 查找元素 ('css selector', '#secondarysubmitter')
+2022-06-10 10:51:21,507 - TestMyLog - INFO - 提交 在元素 ('css selector', '#secondarysubmitter') 中点击
+2022-06-10 10:51:26,032 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:51:26,032 - TestMyLog - INFO - 查看 查找元素 ('css selector', '#row0 > td.listtextctr.uir-list-row-cell > a.dottedlink.viewitem')
+2022-06-10 10:51:26,038 - TestMyLog - INFO - 查看 在元素 ('css selector', '#row0 > td.listtextctr.uir-list-row-cell > a.dottedlink.viewitem') 中点击
+2022-06-10 10:51:31,535 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:51:31,535 - TestMyLog - INFO - 操作 查找元素 ('css selector', '#spn_ACTIONMENU_d1 > span.pgm_bg > a')
+2022-06-10 10:51:31,541 - TestMyLog - INFO - 操作 在元素 ('css selector', '#spn_ACTIONMENU_d1 > span.pgm_bg > a') 上悬停
+2022-06-10 10:51:31,839 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:51:31,839 - TestMyLog - INFO - 制作副本 查找元素 ('css selector', '#nl2 > a > span')
+2022-06-10 10:51:31,845 - TestMyLog - INFO - 制作副本 在元素 ('css selector', '#nl2 > a > span') 中点击
+2022-06-10 10:51:38,591 - TestMyLog - INFO - 切换到默认页面
+2022-06-10 10:51:41,632 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:51:41,632 - TestMyLog - INFO - 保存 查找元素 ('css selector', '#btn_secondarymultibutton_submitter')
+2022-06-10 10:51:41,638 - TestMyLog - INFO - 保存 在元素 ('css selector', '#btn_secondarymultibutton_submitter') 中点击
+2022-06-10 10:51:55,595 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:51:55,595 - TestMyLog - INFO - 确认 查找元素 ('css selector', '#custpage_purchase_order')
+2022-06-10 10:51:55,602 - TestMyLog - INFO - 确认 在元素 ('css selector', '#custpage_purchase_order') 中点击
+2022-06-10 10:52:14,062 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-06-10 10:52:14,062 - TestMyLog - INFO - 审批 查找元素 ('css selector', '#custpageworkflow398')
+2022-06-10 10:52:14,099 - TestMyLog - INFO - 审批 在元素 ('css selector', '#custpageworkflow398') 中点击
+2022-06-10 10:52:29,518 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:52:29,518 - TestMyLog - INFO - 采购单号 查找元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div.uir-record-id')
+2022-06-10 10:52:29,525 - TestMyLog - INFO - 采购单号 在元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div.uir-record-id') 中获取文本
+2022-06-10 10:52:29,532 - TestMyLog - INFO - 采购单号 元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div.uir-record-id') 的文本内容为 PO000013660
+2022-06-10 10:52:31,543 - TestMyLog - ERROR - 数据写入失败!!!
+Traceback (most recent call last):
+  File "F:\HS\UI测试-NS\Common\BasePage.py", line 286, in write_data
+    f = open(w_path, "w", encoding="utf-8")
+FileNotFoundError: [Errno 2] No such file or directory: 'F:\\HS\\UI测试-NS\\TestDatas\\purchase.txt'

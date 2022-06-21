@@ -1,0 +1,158 @@
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 新建供应商 查找元素 ('css selector', '#new')
+INFO     TestMyLog:BasePage.py:127 新建供应商 在元素 ('css selector', '#new') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 公司名称 查找元素 ('css selector', '#companyname')
+INFO     TestMyLog:BasePage.py:100 公司名称 在元素 ('css selector', '#companyname') 中输入文本: LLJ专用202206101125
+INFO     TestMyLog:BasePage.py:45 等待时长:0.06 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custentity_hg_vend_type2_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custentity_hg_vend_type2_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 选择供应商类别 查找元素 ('css selector', '#nl6')
+INFO     TestMyLog:BasePage.py:127 选择供应商类别 在元素 ('css selector', '#nl6') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custentity_hq_pinpai1_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custentity_hq_pinpai1_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custentity_hq_pinpai1_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custentity_hq_pinpai1_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:1.24 秒
+INFO     TestMyLog:BasePage.py:75 输入品牌 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入品牌 在元素 ('css selector', '#st') 中输入文本: Eleaf牌/依丽芙牌
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择品牌 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择品牌 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 中文地址 查找元素 ('css selector', '#custentity_hg_china_address')
+INFO     TestMyLog:BasePage.py:100 中文地址 在元素 ('css selector', '#custentity_hg_china_address') 中输入文本: 上海普陀区长风公园
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custentity_hg_zhuc_c_country_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custentity_hg_zhuc_c_country_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custentity_hg_zhuc_c_country_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custentity_hg_zhuc_c_country_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:1.03 秒
+INFO     TestMyLog:BasePage.py:75 输入注册国家 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入注册国家 在元素 ('css selector', '#st') 中输入文本: China
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择注册国家 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择注册国家 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custentity_hg_vendor_deli_mode3_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custentity_hg_vendor_deli_mode3_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.14 秒
+INFO     TestMyLog:BasePage.py:75 选择供货模式 查找元素 ('css selector', '#nl10')
+INFO     TestMyLog:BasePage.py:127 选择供货模式 在元素 ('css selector', '#nl10') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custentity14_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custentity14_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 选择货物来源 查找元素 ('css selector', '#nl15')
+INFO     TestMyLog:BasePage.py:127 选择货物来源 在元素 ('css selector', '#nl15') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 退货地址 查找元素 ('css selector', '#custentity_hg_caigou_tuihuo')
+INFO     TestMyLog:BasePage.py:100 退货地址 在元素 ('css selector', '#custentity_hg_caigou_tuihuo') 中输入文本: 英国伦敦
+INFO     TestMyLog:BasePage.py:45 等待时长:0.05 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_terms6_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_terms6_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.04 秒
+INFO     TestMyLog:BasePage.py:75 选择结算方式 查找元素 ('css selector', '#nl19')
+INFO     TestMyLog:BasePage.py:127 选择结算方式 在元素 ('css selector', '#nl19') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#custentity_hg_c_dsss_fs > span.uir-field-widget')
+INFO     TestMyLog:BasePage.py:149 下拉 在元素 ('css selector', '#custentity_hg_c_dsss_fs > span.uir-field-widget') 上悬停
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#custentity_hg_c_dsss_fs > span.uir-field-widget')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#custentity_hg_c_dsss_fs > span.uir-field-widget') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:1.28 秒
+INFO     TestMyLog:BasePage.py:75 输入货币 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入货币 在元素 ('css selector', '#st') 中输入文本: CNY
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择货币 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择货币 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 更新 查找元素 ('css selector', '#update')
+INFO     TestMyLog:BasePage.py:127 更新 在元素 ('css selector', '#update') 中点击
+INFO     TestMyLog:BasePage.py:66 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#custentity_hg_department_vend_popup_list')
+INFO     TestMyLog:BasePage.py:149 下拉 在元素 ('css selector', '#custentity_hg_department_vend_popup_list') 上悬停
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#custentity_hg_department_vend_popup_list')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#custentity_hg_department_vend_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:1.17 秒
+INFO     TestMyLog:BasePage.py:75 输入部门 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入部门 在元素 ('css selector', '#st') 中输入文本: B2B事业部
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择部门 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择部门 在元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 更新 查找元素 ('css selector', '#update')
+INFO     TestMyLog:BasePage.py:127 更新 在元素 ('css selector', '#update') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 收件人 查找元素 ('css selector', '#custentity_vendor_receiver')
+INFO     TestMyLog:BasePage.py:100 收件人 在元素 ('css selector', '#custentity_vendor_receiver') 中输入文本: 李连军
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 城市 查找元素 ('css selector', '#custentity_vendor_city')
+INFO     TestMyLog:BasePage.py:100 城市 在元素 ('css selector', '#custentity_vendor_city') 中输入文本: 上海
+INFO     TestMyLog:BasePage.py:45 等待时长:0.05 秒
+INFO     TestMyLog:BasePage.py:75 地址 查找元素 ('css selector', '#custentity_vendor_location')
+INFO     TestMyLog:BasePage.py:100 地址 在元素 ('css selector', '#custentity_vendor_location') 中输入文本: 南翔
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 州、省 查找元素 ('css selector', '#custentity_vendor_province')
+INFO     TestMyLog:BasePage.py:100 州、省 在元素 ('css selector', '#custentity_vendor_province') 中输入文本: 祥和雅苑
+INFO     TestMyLog:BasePage.py:45 等待时长:0.04 秒
+INFO     TestMyLog:BasePage.py:75 邮编 查找元素 ('css selector', '#custentity_vendor_zipcode')
+INFO     TestMyLog:BasePage.py:100 邮编 在元素 ('css selector', '#custentity_vendor_zipcode') 中输入文本: 66666666
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 电话 查找元素 ('css selector', '#custentity_vendor_phone_number')
+INFO     TestMyLog:BasePage.py:100 电话 在元素 ('css selector', '#custentity_vendor_phone_number') 中输入文本: 15601608610
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custentity_vendor_country_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custentity_vendor_country_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custentity_vendor_country_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custentity_vendor_country_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:1.56 秒
+INFO     TestMyLog:BasePage.py:75 输入收件国家 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入收件国家 在元素 ('css selector', '#st') 中输入文本: 中国
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择收件国家 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择收件国家 在元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 采购主体 查找元素 ('css selector', '#subsidiary_display')
+INFO     TestMyLog:BasePage.py:100 采购主体 在元素 ('css selector', '#subsidiary_display') 中输入文本: 爱奇迹（深圳）技术有限公司
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custentity_hg_sol_unite_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custentity_hg_sol_unite_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custentity_hg_sol_unite_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custentity_hg_sol_unite_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:1.65 秒
+INFO     TestMyLog:BasePage.py:75 输入统一计量单位 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入统一计量单位 在元素 ('css selector', '#st') 中输入文本: 个
+INFO     TestMyLog:BasePage.py:45 等待时长:0.01 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择统一计量单位 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择统一计量单位 在元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 保存 查找元素 ('css selector', '#btn_secondarymultibutton_submitter')
+INFO     TestMyLog:BasePage.py:127 保存 在元素 ('css selector', '#btn_secondarymultibutton_submitter') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 获取供应商编码 查找元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div')
+INFO     TestMyLog:BasePage.py:163 获取供应商编码 在元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 中获取文本
+INFO     TestMyLog:BasePage.py:166 获取供应商编码 元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 的文本内容为 VD000003084 LLJ专用202206101125

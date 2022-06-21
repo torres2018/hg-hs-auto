@@ -1,0 +1,54 @@
+INFO     TestMyLog:BasePage.py:45 等待时长:0.32 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custitem_hq_sku_spu_v_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custitem_hq_sku_spu_v_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custitem_hq_sku_spu_v_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custitem_hq_sku_spu_v_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:305 数据读取成功
+INFO     TestMyLog:BasePage.py:45 等待时长:0.39 秒
+INFO     TestMyLog:BasePage.py:75 输入商品编码 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入商品编码 在元素 ('css selector', '#st') 中输入文本: SPU0000000015788
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择商品编码 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择商品编码 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.13 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custitem_hq_sku_spu_spec_1_value_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custitem_hq_sku_spu_spec_1_value_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custitem_hq_sku_spu_spec_1_value_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custitem_hq_sku_spu_spec_1_value_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:1.27 秒
+INFO     TestMyLog:BasePage.py:75 输入规格1 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入规格1 在元素 ('css selector', '#st') 中输入文本: 0.1 x 0.5mm
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择规格1 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择规格1 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custitem_hq_sku_spu_2_value_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custitem_hq_sku_spu_2_value_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custitem_hq_sku_spu_2_value_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custitem_hq_sku_spu_2_value_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:1.12 秒
+INFO     TestMyLog:BasePage.py:75 输入规格2 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入规格2 在元素 ('css selector', '#st') 中输入文本: 10mg/ml
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.01 秒
+INFO     TestMyLog:BasePage.py:75 选择规格2 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择规格2 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.05 秒
+INFO     TestMyLog:BasePage.py:75 保存 查找元素 ('css selector', '#btn_secondarymultibutton_submitter')
+INFO     TestMyLog:BasePage.py:127 保存 在元素 ('css selector', '#btn_secondarymultibutton_submitter') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 货品编码 查找元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div')
+INFO     TestMyLog:BasePage.py:163 货品编码 在元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 中获取文本
+INFO     TestMyLog:BasePage.py:166 货品编码 元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 的文本内容为 PN0000000057865
+INFO     TestMyLog:BasePage.py:293 数据写入成功

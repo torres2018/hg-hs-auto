@@ -1,0 +1,84 @@
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 全局搜索 查找元素 ('css selector', '#NS_MENU_ID0-item1 > a')
+INFO     TestMyLog:BasePage.py:127 全局搜索 在元素 ('css selector', '#NS_MENU_ID0-item1 > a') 中点击
+INFO     TestMyLog:BasePage.py:305 数据读取成功
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 货品编码 查找元素 ('css selector', '#Item_NAME')
+INFO     TestMyLog:BasePage.py:100 货品编码 在元素 ('css selector', '#Item_NAME') 中输入文本: PN0000000057865
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 提交 查找元素 ('css selector', '#submitter')
+INFO     TestMyLog:BasePage.py:127 提交 在元素 ('css selector', '#submitter') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 查看 查找元素 ('css selector', '#row0 > td.listtextctr.uir-list-row-cell > a.dottedlink.viewitem')
+INFO     TestMyLog:BasePage.py:127 查看 在元素 ('css selector', '#row0 > td.listtextctr.uir-list-row-cell > a.dottedlink.viewitem') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 查看外部采购价格 查找元素 ('css selector', '#custom31txt')
+INFO     TestMyLog:BasePage.py:127 查看外部采购价格 在元素 ('css selector', '#custom31txt') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.07 秒
+INFO     TestMyLog:BasePage.py:75 新建【货品外部采购价格】 查找元素 ('css selector', '#newrecrecmachcustrecord_hg_price_item')
+INFO     TestMyLog:BasePage.py:127 新建【货品外部采购价格】 在元素 ('css selector', '#newrecrecmachcustrecord_hg_price_item') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 名称 查找元素 ('css selector', '#name')
+INFO     TestMyLog:BasePage.py:100 名称 在元素 ('css selector', '#name') 中输入文本: LI1654832098
+INFO     TestMyLog:BasePage.py:45 等待时长:0.07 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custrecord_hg_pric_vend_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custrecord_hg_pric_vend_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custrecord_hg_pric_vend_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custrecord_hg_pric_vend_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.83 秒
+INFO     TestMyLog:BasePage.py:75 输入供应商 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入供应商 在元素 ('css selector', '#st') 中输入文本: VD000002760 深圳市米茄科技有限公司
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择供应商 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择供应商 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custrecord_hg_re_record1_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custrecord_hg_re_record1_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.04 秒
+INFO     TestMyLog:BasePage.py:75 选择汇率记录 查找元素 ('css selector', '#nl5')
+INFO     TestMyLog:BasePage.py:127 选择汇率记录 在元素 ('css selector', '#nl5') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 输入供应商 查找元素 ('css selector', '#custrecord_hq_gcjj1_formattedValue')
+INFO     TestMyLog:BasePage.py:100 输入供应商 在元素 ('css selector', '#custrecord_hq_gcjj1_formattedValue') 中输入文本: 100
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custrecord_hg_kp_pre2_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custrecord_hg_kp_pre2_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 选择开票税点 查找元素 ('css selector', '#nl12')
+INFO     TestMyLog:BasePage.py:127 选择开票税点 在元素 ('css selector', '#nl12') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custrecord_hq_sku_price_dot3_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custrecord_hq_sku_price_dot3_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 选择小数点 查找元素 ('css selector', '#nl28')
+INFO     TestMyLog:BasePage.py:127 选择小数点 在元素 ('css selector', '#nl28') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custrecord_hg_biao_bao_date4_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custrecord_hg_biao_bao_date4_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 保留小数位 查找元素 ('css selector', '#nl32')
+INFO     TestMyLog:BasePage.py:127 保留小数位 在元素 ('css selector', '#nl32') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custrecord_hg_if_defautkes5_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custrecord_hg_if_defautkes5_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 是否默认 查找元素 ('css selector', '#nl36')
+INFO     TestMyLog:BasePage.py:127 是否默认 在元素 ('css selector', '#nl36') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 保存 查找元素 ('css selector', '#btn_secondarymultibutton_submitter')
+INFO     TestMyLog:BasePage.py:127 保存 在元素 ('css selector', '#btn_secondarymultibutton_submitter') 中点击
+INFO     TestMyLog:BasePage.py:208 弹窗确认操作:
+INFO     TestMyLog:BasePage.py:214 弹框确认成功
+INFO     TestMyLog:BasePage.py:45 等待时长:0.38 秒
+INFO     TestMyLog:BasePage.py:75 外部采购价格 查找元素 ('css selector', '#custom31txt')
+INFO     TestMyLog:BasePage.py:127 外部采购价格 在元素 ('css selector', '#custom31txt') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.34 秒
+INFO     TestMyLog:BasePage.py:75 选择需要审核的外部采购价 查找元素 ('css selector', '#recmachcustrecord_hg_price_itemrow0 > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择需要审核的外部采购价 在元素 ('css selector', '#recmachcustrecord_hg_price_itemrow0 > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 审批通过 查找元素 ('css selector', '#custpageworkflow344')
+INFO     TestMyLog:BasePage.py:127 审批通过 在元素 ('css selector', '#custpageworkflow344') 中点击

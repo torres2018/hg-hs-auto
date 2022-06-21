@@ -1,0 +1,16 @@
+[ {
+  "values" : [ "NS" ],
+  "name" : "Stand"
+}, {
+  "values" : [ "https://system.netsuite.com/pages/customerlogin.jsp" ],
+  "name" : "ApiUrl"
+}, {
+  "values" : [ "3.6.5" ],
+  "name" : "python.Version"
+}, {
+  "values" : [ "98.0.4758.102" ],
+  "name" : "Browser.Version"
+}, {
+  "values" : [ "Chorme" ],
+  "name" : "Browser"
+} ]

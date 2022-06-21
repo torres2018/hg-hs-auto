@@ -1,0 +1,53 @@
+2022-06-10 10:45:50,952 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-10 10:45:50,952 - TestMyLog - INFO - 客户名称 查找元素 ('css selector', '#custrecord_hg_cus_cusname_display')
+2022-06-10 10:45:50,960 - TestMyLog - INFO - 客户名称 在元素 ('css selector', '#custrecord_hg_cus_cusname_display') 中输入文本: CU000024813 HG-UI测试专用
+2022-06-10 10:45:54,156 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-10 10:45:54,156 - TestMyLog - INFO - 申请类型 查找元素 ('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow')
+2022-06-10 10:45:54,162 - TestMyLog - INFO - 申请类型 在元素 ('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow') 中点击
+2022-06-10 10:45:54,366 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-10 10:45:54,367 - TestMyLog - INFO - 信用额度发货 查找元素 ('css selector', '#nl4')
+2022-06-10 10:45:54,379 - TestMyLog - INFO - 信用额度发货 在元素 ('css selector', '#nl4') 中点击
+2022-06-10 10:45:58,425 - TestMyLog - INFO - 等待时长:3.96 秒
+2022-06-10 10:45:58,426 - TestMyLog - INFO - 申请金额 查找元素 ('css selector', '#custrecord_hg_cus_changecredit_formattedValue')
+2022-06-10 10:45:58,448 - TestMyLog - INFO - 申请金额 在元素 ('css selector', '#custrecord_hg_cus_changecredit_formattedValue') 中输入文本: 1000
+2022-06-10 10:45:58,559 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:45:58,559 - TestMyLog - INFO - 到期时间 查找元素 ('css selector', '#custrecord_hg_cus_rq')
+2022-06-10 10:45:58,566 - TestMyLog - INFO - 到期时间 在元素 ('css selector', '#custrecord_hg_cus_rq') 中输入文本: 2025-02-16
+2022-06-10 10:46:02,620 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:46:02,620 - TestMyLog - INFO - 备注说明 查找元素 ('css selector', '#cke_1_contents > div')
+2022-06-10 10:46:02,628 - TestMyLog - INFO - 备注说明 在元素 ('css selector', '#cke_1_contents > div') 中输入文本: hello
+2022-06-10 10:46:04,749 - TestMyLog - INFO - 切换到默认页面
+2022-06-10 10:46:07,784 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:46:07,784 - TestMyLog - INFO - 保存 查找元素 ('css selector', '#btn_multibutton_submitter')
+2022-06-10 10:46:07,792 - TestMyLog - INFO - 保存 在元素 ('css selector', '#btn_multibutton_submitter') 中点击
+2022-06-10 10:46:10,652 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:46:10,653 - TestMyLog - INFO - 提交审批 查找元素 ('css selector', '#custpageworkflow210')
+2022-06-10 10:46:10,658 - TestMyLog - INFO - 提交审批 在元素 ('css selector', '#custpageworkflow210') 中点击
+2022-06-10 10:46:12,843 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-10 10:46:12,843 - TestMyLog - INFO - 审批确认 查找元素 ('css selector', '#custpageworkflow217')
+2022-06-10 10:46:12,850 - TestMyLog - INFO - 审批确认 在元素 ('css selector', '#custpageworkflow217') 中点击
+2022-06-10 10:46:14,935 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-10 10:46:14,935 - TestMyLog - INFO - 再次审批确认 查找元素 ('css selector', '#custpageworkflow239')
+2022-06-10 10:46:14,941 - TestMyLog - INFO - 再次审批确认 在元素 ('css selector', '#custpageworkflow239') 中点击
+2022-06-10 10:46:17,486 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-10 10:46:17,486 - TestMyLog - INFO - 标记已冲减 查找元素 ('css selector', '#custpageworkflow2190')
+2022-06-10 10:46:17,494 - TestMyLog - INFO - 标记已冲减 在元素 ('css selector', '#custpageworkflow2190') 中点击
+2022-06-10 10:46:20,116 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-10 10:46:20,116 - TestMyLog - INFO - AR申请单号 查找元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div')
+2022-06-10 10:46:20,124 - TestMyLog - INFO - AR申请单号 在元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 中获取文本
+2022-06-10 10:46:20,130 - TestMyLog - INFO - AR申请单号 元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 的文本内容为 CA00003660
+2022-06-10 10:46:25,161 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:46:25,161 - TestMyLog - INFO - 事务处理 查找元素 ('css selector', '#ns-header-menu-main-item1 > a > span')
+2022-06-10 10:46:25,167 - TestMyLog - INFO - 事务处理 在元素 ('css selector', '#ns-header-menu-main-item1 > a > span') 上悬停
+2022-06-10 10:46:26,020 - TestMyLog - INFO - 等待时长:0.55 秒
+2022-06-10 10:46:26,021 - TestMyLog - INFO - 销售 查找元素 ('xpath', '//*[@class="ns-menu uir-menu-main ns-menubar"]/li[2]/ul/li[6]')
+2022-06-10 10:46:26,029 - TestMyLog - INFO - 销售 在元素 ('xpath', '//*[@class="ns-menu uir-menu-main ns-menubar"]/li[2]/ul/li[6]') 上悬停
+2022-06-10 10:46:26,393 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-06-10 10:46:26,393 - TestMyLog - INFO - 客户AR申请单 查找元素 ('xpath', '//*[@class="ns-menu uir-menu-main ns-menubar"]/li[2]/ul/li[6]/ul/li[13]')
+2022-06-10 10:46:26,402 - TestMyLog - INFO - 客户AR申请单 在元素 ('xpath', '//*[@class="ns-menu uir-menu-main ns-menubar"]/li[2]/ul/li[6]/ul/li[13]') 中点击
+2022-06-10 10:46:30,587 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:46:30,588 - TestMyLog - INFO - 查看 查找元素 ('css selector', '#row0 > td:nth-child(3) > a.dottedlink.viewitem')
+2022-06-10 10:46:30,594 - TestMyLog - INFO - 查看 在元素 ('css selector', '#row0 > td:nth-child(3) > a.dottedlink.viewitem') 中点击
+2022-06-10 10:46:32,096 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 10:46:32,096 - TestMyLog - INFO - 保存 查找元素 ('css selector', '#custpageworkflow693')
+2022-06-10 10:46:32,103 - TestMyLog - INFO - 保存 在元素 ('css selector', '#custpageworkflow693') 中点击

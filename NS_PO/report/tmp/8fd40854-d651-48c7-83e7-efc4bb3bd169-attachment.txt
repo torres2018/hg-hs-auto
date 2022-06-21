@@ -1,0 +1,89 @@
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 货品编码 查找元素 ('xpath', '//*[@id="itemid"]')
+INFO     TestMyLog:BasePage.py:100 货品编码 在元素 ('xpath', '//*[@id="itemid"]') 中输入文本: PN0000000057161
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('xpath', '//*[@id="search"]')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('xpath', '//*[@id="search"]') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:4.51 秒
+INFO     TestMyLog:BasePage.py:75 添加进入购物车 查找元素 ('xpath', '//*[@id="info_listrow0"]/td[2]/a')
+INFO     TestMyLog:BasePage.py:127 添加进入购物车 在元素 ('xpath', '//*[@id="info_listrow0"]/td[2]/a') 中点击
+INFO     TestMyLog:BasePage.py:234 切换到最新打开的窗口
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_po_or_to1_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_po_or_to1_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.04 秒
+INFO     TestMyLog:BasePage.py:75 PO类型 查找元素 ('css selector', '#nl2')
+INFO     TestMyLog:BasePage.py:127 PO类型 在元素 ('css selector', '#nl2') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_location3_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_location3_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.05 秒
+INFO     TestMyLog:BasePage.py:75 仓库 查找元素 ('xpath', '//*[@id="nl51"]')
+INFO     TestMyLog:BasePage.py:127 仓库 在元素 ('xpath', '//*[@id="nl51"]') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 采购数量 查找元素 ('xpath', '//*[@id="quantity_formattedValue"]')
+INFO     TestMyLog:BasePage.py:100 采购数量 在元素 ('xpath', '//*[@id="quantity_formattedValue"]') 中输入文本: 1000
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('xpath', '//*[@id="inpt_settlement_method5_arrow"]')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('xpath', '//*[@id="inpt_settlement_method5_arrow"]') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 结算方式 查找元素 ('xpath', '//*[@id="nl74"]')
+INFO     TestMyLog:BasePage.py:127 结算方式 在元素 ('xpath', '//*[@id="nl74"]') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('xpath', '//*[@id="inpt_supply_mode6_arrow"]')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('xpath', '//*[@id="inpt_supply_mode6_arrow"]') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 供货模式 查找元素 ('xpath', '//*[@id="nl91"]')
+INFO     TestMyLog:BasePage.py:127 供货模式 在元素 ('xpath', '//*[@id="nl91"]') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 添加至PO购物车 查找元素 ('xpath', '//*[@id="submitter"]')
+INFO     TestMyLog:BasePage.py:127 添加至PO购物车 在元素 ('xpath', '//*[@id="submitter"]') 中点击
+INFO     TestMyLog:BasePage.py:208 弹窗确认操作:
+INFO     TestMyLog:BasePage.py:214 弹框确认成功
+INFO     TestMyLog:BasePage.py:45 等待时长:0.20 秒
+INFO     TestMyLog:BasePage.py:75 购物车列表 查找元素 ('xpath', '//*[@id="ext-element-4"]/div/button[1]')
+INFO     TestMyLog:BasePage.py:127 购物车列表 在元素 ('xpath', '//*[@id="ext-element-4"]/div/button[1]') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 货品编码 查找元素 ('css selector', '#sub_itemid')
+INFO     TestMyLog:BasePage.py:100 货品编码 在元素 ('css selector', '#sub_itemid') 中输入文本: PN0000000057161
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 勾选单据 查找元素 ('css selector', '#checkbox1_fs > img')
+INFO     TestMyLog:BasePage.py:127 勾选单据 在元素 ('css selector', '#checkbox1_fs > img') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.11 秒
+INFO     TestMyLog:BasePage.py:75 提交 查找元素 ('css selector', '#submitter')
+INFO     TestMyLog:BasePage.py:127 提交 在元素 ('css selector', '#submitter') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 刷新 查找元素 ('xpath', '//*[@id="refresh"]')
+INFO     TestMyLog:BasePage.py:127 刷新 在元素 ('xpath', '//*[@id="refresh"]') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 PO单号 查找元素 ('xpath', '//*[@id="poidlink"]')
+INFO     TestMyLog:BasePage.py:163 PO单号 在元素 ('xpath', '//*[@id="poidlink"]') 中获取文本
+INFO     TestMyLog:BasePage.py:166 PO单号 元素 ('xpath', '//*[@id="poidlink"]') 的文本内容为 PO000013662
+INFO     TestMyLog:BasePage.py:75 PO单号链接 查找元素 ('xpath', '//*[@id="poidlink"]')
+INFO     TestMyLog:BasePage.py:127 PO单号链接 在元素 ('xpath', '//*[@id="poidlink"]') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 编辑 查找元素 ('css selector', '#edit')
+INFO     TestMyLog:BasePage.py:127 编辑 在元素 ('css selector', '#edit') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custbody_hg_if_compute_s2')
+INFO     TestMyLog:BasePage.py:149 下拉 在元素 ('css selector', '#inpt_custbody_hg_if_compute_s2') 上悬停
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custbody_hg_if_compute_s2')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custbody_hg_if_compute_s2') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 否 查找元素 ('css selector', '#nl4')
+INFO     TestMyLog:BasePage.py:127 否 在元素 ('css selector', '#nl4') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 交付日期 查找元素 ('css selector', '#custbody_hg_jiaof_fdate')
+INFO     TestMyLog:BasePage.py:100 交付日期 在元素 ('css selector', '#custbody_hg_jiaof_fdate') 中输入文本: 2022-06-01
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 保存 查找元素 ('css selector', '#btn_secondarymultibutton_submitter')
+INFO     TestMyLog:BasePage.py:127 保存 在元素 ('css selector', '#btn_secondarymultibutton_submitter') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 确认 查找元素 ('css selector', '#custpage_purchase_order')
+INFO     TestMyLog:BasePage.py:127 确认 在元素 ('css selector', '#custpage_purchase_order') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:10.99 秒
+INFO     TestMyLog:BasePage.py:75 审核通过 查找元素 ('css selector', '#custpageworkflow398')
+INFO     TestMyLog:BasePage.py:127 审核通过 在元素 ('css selector', '#custpageworkflow398') 中点击

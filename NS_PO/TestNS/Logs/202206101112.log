@@ -1,0 +1,54 @@
+2022-06-10 11:12:53,221 - TestMyLog - INFO - 等待时长:0.08 秒
+2022-06-10 11:12:53,221 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_custitem_hq_sku_spu_v_fs > a:nth-child(2)')
+2022-06-10 11:12:53,232 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_custitem_hq_sku_spu_v_fs > a:nth-child(2)') 中点击
+2022-06-10 11:12:53,741 - TestMyLog - INFO - 等待时长:0.40 秒
+2022-06-10 11:12:53,741 - TestMyLog - INFO - 列表 查找元素 ('css selector', '#custitem_hq_sku_spu_v_popup_list')
+2022-06-10 11:12:53,748 - TestMyLog - INFO - 列表 在元素 ('css selector', '#custitem_hq_sku_spu_v_popup_list') 中点击
+2022-06-10 11:12:54,924 - TestMyLog - INFO - 数据读取成功
+2022-06-10 11:12:55,259 - TestMyLog - INFO - 等待时长:0.33 秒
+2022-06-10 11:12:55,259 - TestMyLog - INFO - 输入商品编码 查找元素 ('css selector', '#st')
+2022-06-10 11:12:55,264 - TestMyLog - INFO - 输入商品编码 在元素 ('css selector', '#st') 中输入文本: SPU0000000015787
+2022-06-10 11:12:58,389 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 11:12:58,389 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-06-10 11:12:58,396 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-06-10 11:13:03,484 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 11:13:03,485 - TestMyLog - INFO - 选择商品编码 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+2022-06-10 11:13:03,490 - TestMyLog - INFO - 选择商品编码 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+2022-06-10 11:13:06,439 - TestMyLog - INFO - 等待时长:0.12 秒
+2022-06-10 11:13:06,439 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_custitem_hq_sku_spu_spec_1_value_fs > a:nth-child(2)')
+2022-06-10 11:13:06,445 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_custitem_hq_sku_spu_spec_1_value_fs > a:nth-child(2)') 中点击
+2022-06-10 11:13:06,535 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-10 11:13:06,535 - TestMyLog - INFO - 列表 查找元素 ('css selector', '#custitem_hq_sku_spu_spec_1_value_popup_list')
+2022-06-10 11:13:06,541 - TestMyLog - INFO - 列表 在元素 ('css selector', '#custitem_hq_sku_spu_spec_1_value_popup_list') 中点击
+2022-06-10 11:13:07,924 - TestMyLog - INFO - 等待时长:1.20 秒
+2022-06-10 11:13:07,924 - TestMyLog - INFO - 输入规格1 查找元素 ('css selector', '#st')
+2022-06-10 11:13:07,931 - TestMyLog - INFO - 输入规格1 在元素 ('css selector', '#st') 中输入文本: 0.1 x 0.5mm
+2022-06-10 11:13:10,055 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 11:13:10,055 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-06-10 11:13:10,062 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-06-10 11:13:13,168 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 11:13:13,168 - TestMyLog - INFO - 选择规格1 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+2022-06-10 11:13:13,175 - TestMyLog - INFO - 选择规格1 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+2022-06-10 11:13:13,353 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 11:13:13,353 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_custitem_hq_sku_spu_2_value_fs > a:nth-child(2)')
+2022-06-10 11:13:13,360 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_custitem_hq_sku_spu_2_value_fs > a:nth-child(2)') 中点击
+2022-06-10 11:13:13,473 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-06-10 11:13:13,473 - TestMyLog - INFO - 列表 查找元素 ('css selector', '#custitem_hq_sku_spu_2_value_popup_list')
+2022-06-10 11:13:13,481 - TestMyLog - INFO - 列表 在元素 ('css selector', '#custitem_hq_sku_spu_2_value_popup_list') 中点击
+2022-06-10 11:13:14,869 - TestMyLog - INFO - 等待时长:1.14 秒
+2022-06-10 11:13:14,869 - TestMyLog - INFO - 输入规格2 查找元素 ('css selector', '#st')
+2022-06-10 11:13:14,878 - TestMyLog - INFO - 输入规格2 在元素 ('css selector', '#st') 中输入文本: 10mg/ml
+2022-06-10 11:13:16,947 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 11:13:16,948 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-06-10 11:13:16,954 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-06-10 11:13:20,065 - TestMyLog - INFO - 等待时长:0.01 秒
+2022-06-10 11:13:20,066 - TestMyLog - INFO - 选择规格2 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+2022-06-10 11:13:20,072 - TestMyLog - INFO - 选择规格2 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+2022-06-10 11:13:20,271 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-06-10 11:13:20,271 - TestMyLog - INFO - 保存 查找元素 ('css selector', '#btn_secondarymultibutton_submitter')
+2022-06-10 11:13:20,287 - TestMyLog - INFO - 保存 在元素 ('css selector', '#btn_secondarymultibutton_submitter') 中点击
+2022-06-10 11:13:30,503 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 11:13:30,503 - TestMyLog - INFO - 货品编码 查找元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div')
+2022-06-10 11:13:30,509 - TestMyLog - INFO - 货品编码 在元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 中获取文本
+2022-06-10 11:13:30,515 - TestMyLog - INFO - 货品编码 元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 的文本内容为 PN0000000057864
+2022-06-10 11:13:32,516 - TestMyLog - INFO - 数据写入成功

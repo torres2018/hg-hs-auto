@@ -1,0 +1,135 @@
+2022-06-01 14:10:48,294 - TestMyLog - INFO - 等待时长:0.07 秒
+2022-06-01 14:10:48,295 - TestMyLog - INFO - 货品编码 查找元素 ('xpath', '//*[@id="itemid"]')
+2022-06-01 14:10:48,304 - TestMyLog - INFO - 货品编码 在元素 ('xpath', '//*[@id="itemid"]') 中输入文本: PN0000000057161
+2022-06-01 14:10:48,390 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:10:48,390 - TestMyLog - INFO - 搜索 查找元素 ('xpath', '//*[@id="search"]')
+2022-06-01 14:10:48,397 - TestMyLog - INFO - 搜索 在元素 ('xpath', '//*[@id="search"]') 中点击
+2022-06-01 14:11:01,416 - TestMyLog - INFO - 等待时长:12.97 秒
+2022-06-01 14:11:01,418 - TestMyLog - INFO - 添加进入购物车 查找元素 ('xpath', '//*[@id="info_listrow0"]/td[2]/a')
+2022-06-01 14:11:01,440 - TestMyLog - INFO - 添加进入购物车 在元素 ('xpath', '//*[@id="info_listrow0"]/td[2]/a') 中点击
+2022-06-01 14:11:01,549 - TestMyLog - INFO - 切换到最新打开的窗口
+2022-06-01 14:11:07,657 - TestMyLog - INFO - 等待时长:0.08 秒
+2022-06-01 14:11:07,658 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_po_or_to1_arrow')
+2022-06-01 14:11:07,666 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_po_or_to1_arrow') 中点击
+2022-06-01 14:11:07,749 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-01 14:11:07,749 - TestMyLog - INFO - PO类型 查找元素 ('css selector', '#nl2')
+2022-06-01 14:11:07,755 - TestMyLog - INFO - PO类型 在元素 ('css selector', '#nl2') 中点击
+2022-06-01 14:11:14,017 - TestMyLog - INFO - 等待时长:0.07 秒
+2022-06-01 14:11:14,018 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_location3_arrow')
+2022-06-01 14:11:14,039 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_location3_arrow') 中点击
+2022-06-01 14:11:14,257 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-06-01 14:11:14,258 - TestMyLog - INFO - 仓库 查找元素 ('xpath', '//*[@id="nl51"]')
+2022-06-01 14:11:14,263 - TestMyLog - INFO - 仓库 在元素 ('xpath', '//*[@id="nl51"]') 中点击
+2022-06-01 14:11:14,324 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:11:14,324 - TestMyLog - INFO - 采购数量 查找元素 ('xpath', '//*[@id="quantity_formattedValue"]')
+2022-06-01 14:11:14,330 - TestMyLog - INFO - 采购数量 在元素 ('xpath', '//*[@id="quantity_formattedValue"]') 中输入文本: 1000
+2022-06-01 14:11:14,429 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-01 14:11:14,429 - TestMyLog - INFO - 下拉 查找元素 ('xpath', '//*[@id="inpt_settlement_method5_arrow"]')
+2022-06-01 14:11:14,435 - TestMyLog - INFO - 下拉 在元素 ('xpath', '//*[@id="inpt_settlement_method5_arrow"]') 中点击
+2022-06-01 14:11:14,842 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:11:14,842 - TestMyLog - INFO - 结算方式 查找元素 ('xpath', '//*[@id="nl74"]')
+2022-06-01 14:11:14,849 - TestMyLog - INFO - 结算方式 在元素 ('xpath', '//*[@id="nl74"]') 中点击
+2022-06-01 14:11:14,916 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:11:14,916 - TestMyLog - INFO - 下拉 查找元素 ('xpath', '//*[@id="inpt_supply_mode6_arrow"]')
+2022-06-01 14:11:14,923 - TestMyLog - INFO - 下拉 在元素 ('xpath', '//*[@id="inpt_supply_mode6_arrow"]') 中点击
+2022-06-01 14:11:15,011 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:11:15,011 - TestMyLog - INFO - 供货模式 查找元素 ('xpath', '//*[@id="nl91"]')
+2022-06-01 14:11:15,017 - TestMyLog - INFO - 供货模式 在元素 ('xpath', '//*[@id="nl91"]') 中点击
+2022-06-01 14:11:15,083 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:11:15,083 - TestMyLog - INFO - 添加至PO购物车 查找元素 ('xpath', '//*[@id="submitter"]')
+2022-06-01 14:11:15,091 - TestMyLog - INFO - 添加至PO购物车 在元素 ('xpath', '//*[@id="submitter"]') 中点击
+2022-06-01 14:11:15,670 - TestMyLog - INFO - 弹窗确认操作:
+2022-06-01 14:11:18,697 - TestMyLog - INFO - 弹框确认成功
+2022-06-01 14:11:19,816 - TestMyLog - INFO - 等待时长:1.12 秒
+2022-06-01 14:11:19,817 - TestMyLog - INFO - 购物车列表 查找元素 ('xpath', '//*[@id="ext-element-4"]/div/button[1]')
+2022-06-01 14:11:19,825 - TestMyLog - INFO - 购物车列表 在元素 ('xpath', '//*[@id="ext-element-4"]/div/button[1]') 中点击
+2022-06-01 14:11:29,350 - TestMyLog - INFO - 等待时长:0.08 秒
+2022-06-01 14:11:29,350 - TestMyLog - INFO - 货品编码 查找元素 ('css selector', '#sub_itemid')
+2022-06-01 14:11:29,370 - TestMyLog - INFO - 货品编码 在元素 ('css selector', '#sub_itemid') 中输入文本: PN0000000057161
+2022-06-01 14:11:29,573 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:11:29,573 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#search')
+2022-06-01 14:11:29,578 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#search') 中点击
+2022-06-01 14:11:34,731 - TestMyLog - INFO - 等待时长:5.09 秒
+2022-06-01 14:11:34,731 - TestMyLog - INFO - 勾选单据 查找元素 ('css selector', '#checkbox1_fs > img')
+2022-06-01 14:11:34,738 - TestMyLog - INFO - 勾选单据 在元素 ('css selector', '#checkbox1_fs > img') 中点击
+2022-06-01 14:11:35,194 - TestMyLog - INFO - 等待时长:0.09 秒
+2022-06-01 14:11:35,195 - TestMyLog - INFO - 提交 查找元素 ('css selector', '#submitter')
+2022-06-01 14:11:35,202 - TestMyLog - INFO - 提交 在元素 ('css selector', '#submitter') 中点击
+2022-06-01 14:11:59,211 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-06-01 14:11:59,212 - TestMyLog - INFO - 刷新 查找元素 ('xpath', '//*[@id="refresh"]')
+2022-06-01 14:11:59,223 - TestMyLog - INFO - 刷新 在元素 ('xpath', '//*[@id="refresh"]') 中点击
+2022-06-01 14:12:02,429 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:12:02,429 - TestMyLog - INFO - PO单号 查找元素 ('xpath', '//*[@id="poidlink"]')
+2022-06-01 14:12:02,435 - TestMyLog - INFO - PO单号 在元素 ('xpath', '//*[@id="poidlink"]') 中获取文本
+2022-06-01 14:12:02,441 - TestMyLog - INFO - PO单号 元素 ('xpath', '//*[@id="poidlink"]') 的文本内容为 PO000013639
+2022-06-01 14:12:04,449 - TestMyLog - INFO - PO单号链接 查找元素 ('xpath', '//*[@id="poidlink"]')
+2022-06-01 14:12:04,456 - TestMyLog - INFO - PO单号链接 在元素 ('xpath', '//*[@id="poidlink"]') 中点击
+2022-06-01 14:12:11,667 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-06-01 14:12:11,668 - TestMyLog - INFO - 确认 查找元素 ('css selector', '#custpage_purchase_order')
+2022-06-01 14:12:11,681 - TestMyLog - INFO - 确认 在元素 ('css selector', '#custpage_purchase_order') 中点击
+2022-06-01 14:12:13,902 - TestMyLog - ERROR - 审核通过 等待元素可见失败:('css selector', '#custpageworkflow398')
+Traceback (most recent call last):
+  File "F:\HS\UI测试-NS\Common\BasePage.py", line 39, in wait_eleVisible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "D:\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 241, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 请先输入交付日期
+Message: unexpected alert open: {Alert text : 请先输入交付日期}
+  (Session info: chrome=101.0.4951.67)
+
+2022-06-01 14:12:13,921 - TestMyLog - ERROR - 截屏失败!
+Traceback (most recent call last):
+  File "F:\HS\UI测试-NS\Common\BasePage.py", line 39, in wait_eleVisible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "D:\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 241, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 请先输入交付日期
+Message: unexpected alert open: {Alert text : 请先输入交付日期}
+  (Session info: chrome=101.0.4951.67)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\HS\UI测试-NS\Common\BasePage.py", line 269, in save_webImgs
+    self.driver.save_screenshot(filePath)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1055, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1032, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1064, in get_screenshot_as_png
+    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1074, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)['value']
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 241, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 请先输入交付日期
+Message: unexpected alert open: {Alert text : 请先输入交付日期}
+  (Session info: chrome=101.0.4951.67)
+

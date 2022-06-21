@@ -1,0 +1,53 @@
+INFO     TestMyLog:BasePage.py:45 等待时长:0.04 秒
+INFO     TestMyLog:BasePage.py:75 客户名称 查找元素 ('css selector', '#custrecord_hg_cus_cusname_display')
+INFO     TestMyLog:BasePage.py:100 客户名称 在元素 ('css selector', '#custrecord_hg_cus_cusname_display') 中输入文本: CU000024813 HG-UI测试专用
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 申请类型 查找元素 ('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow')
+INFO     TestMyLog:BasePage.py:127 申请类型 在元素 ('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 信用额度发货 查找元素 ('css selector', '#nl4')
+INFO     TestMyLog:BasePage.py:127 信用额度发货 在元素 ('css selector', '#nl4') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.08 秒
+INFO     TestMyLog:BasePage.py:75 申请金额 查找元素 ('css selector', '#custrecord_hg_cus_changecredit_formattedValue')
+INFO     TestMyLog:BasePage.py:100 申请金额 在元素 ('css selector', '#custrecord_hg_cus_changecredit_formattedValue') 中输入文本: 1000
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 到期时间 查找元素 ('css selector', '#custrecord_hg_cus_rq')
+INFO     TestMyLog:BasePage.py:100 到期时间 在元素 ('css selector', '#custrecord_hg_cus_rq') 中输入文本: 2025-02-16
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 备注说明 查找元素 ('css selector', '#cke_1_contents > div')
+INFO     TestMyLog:BasePage.py:100 备注说明 在元素 ('css selector', '#cke_1_contents > div') 中输入文本: hello
+INFO     TestMyLog:BasePage.py:239 切换到默认页面
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 保存 查找元素 ('css selector', '#btn_multibutton_submitter')
+INFO     TestMyLog:BasePage.py:127 保存 在元素 ('css selector', '#btn_multibutton_submitter') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 提交审批 查找元素 ('css selector', '#custpageworkflow210')
+INFO     TestMyLog:BasePage.py:127 提交审批 在元素 ('css selector', '#custpageworkflow210') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 审批确认 查找元素 ('css selector', '#custpageworkflow217')
+INFO     TestMyLog:BasePage.py:127 审批确认 在元素 ('css selector', '#custpageworkflow217') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 再次审批确认 查找元素 ('css selector', '#custpageworkflow239')
+INFO     TestMyLog:BasePage.py:127 再次审批确认 在元素 ('css selector', '#custpageworkflow239') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 标记已冲减 查找元素 ('css selector', '#custpageworkflow2190')
+INFO     TestMyLog:BasePage.py:127 标记已冲减 在元素 ('css selector', '#custpageworkflow2190') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 AR申请单号 查找元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div')
+INFO     TestMyLog:BasePage.py:163 AR申请单号 在元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 中获取文本
+INFO     TestMyLog:BasePage.py:166 AR申请单号 元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 的文本内容为 CA00003662
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 事务处理 查找元素 ('css selector', '#ns-header-menu-main-item1 > a > span')
+INFO     TestMyLog:BasePage.py:149 事务处理 在元素 ('css selector', '#ns-header-menu-main-item1 > a > span') 上悬停
+INFO     TestMyLog:BasePage.py:45 等待时长:0.55 秒
+INFO     TestMyLog:BasePage.py:75 销售 查找元素 ('xpath', '//*[@class="ns-menu uir-menu-main ns-menubar"]/li[2]/ul/li[6]')
+INFO     TestMyLog:BasePage.py:149 销售 在元素 ('xpath', '//*[@class="ns-menu uir-menu-main ns-menubar"]/li[2]/ul/li[6]') 上悬停
+INFO     TestMyLog:BasePage.py:45 等待时长:0.06 秒
+INFO     TestMyLog:BasePage.py:75 客户AR申请单 查找元素 ('xpath', '//*[@class="ns-menu uir-menu-main ns-menubar"]/li[2]/ul/li[6]/ul/li[13]')
+INFO     TestMyLog:BasePage.py:127 客户AR申请单 在元素 ('xpath', '//*[@class="ns-menu uir-menu-main ns-menubar"]/li[2]/ul/li[6]/ul/li[13]') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 查看 查找元素 ('css selector', '#row0 > td:nth-child(3) > a.dottedlink.viewitem')
+INFO     TestMyLog:BasePage.py:127 查看 在元素 ('css selector', '#row0 > td:nth-child(3) > a.dottedlink.viewitem') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 保存 查找元素 ('css selector', '#custpageworkflow693')
+INFO     TestMyLog:BasePage.py:127 保存 在元素 ('css selector', '#custpageworkflow693') 中点击

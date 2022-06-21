@@ -1,0 +1,81 @@
+2022-06-01 14:54:48,528 - TestMyLog - INFO - 等待时长:0.07 秒
+2022-06-01 14:54:48,529 - TestMyLog - INFO - 货品编码 查找元素 ('xpath', '//*[@id="itemid"]')
+2022-06-01 14:54:48,544 - TestMyLog - INFO - 货品编码 在元素 ('xpath', '//*[@id="itemid"]') 中输入文本: PN0000000057161
+2022-06-01 14:54:48,639 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:54:48,639 - TestMyLog - INFO - 搜索 查找元素 ('xpath', '//*[@id="search"]')
+2022-06-01 14:54:48,647 - TestMyLog - INFO - 搜索 在元素 ('xpath', '//*[@id="search"]') 中点击
+2022-06-01 14:54:54,525 - TestMyLog - INFO - 等待时长:5.83 秒
+2022-06-01 14:54:54,525 - TestMyLog - INFO - 添加进入购物车 查找元素 ('xpath', '//*[@id="info_listrow0"]/td[2]/a')
+2022-06-01 14:54:54,531 - TestMyLog - INFO - 添加进入购物车 在元素 ('xpath', '//*[@id="info_listrow0"]/td[2]/a') 中点击
+2022-06-01 14:54:54,625 - TestMyLog - INFO - 切换到最新打开的窗口
+2022-06-01 14:55:00,741 - TestMyLog - INFO - 等待时长:0.09 秒
+2022-06-01 14:55:00,741 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_po_or_to1_arrow')
+2022-06-01 14:55:00,753 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_po_or_to1_arrow') 中点击
+2022-06-01 14:55:00,842 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:55:00,842 - TestMyLog - INFO - PO类型 查找元素 ('css selector', '#nl2')
+2022-06-01 14:55:00,849 - TestMyLog - INFO - PO类型 在元素 ('css selector', '#nl2') 中点击
+2022-06-01 14:55:07,420 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-01 14:55:07,420 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_location3_arrow')
+2022-06-01 14:55:07,427 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_location3_arrow') 中点击
+2022-06-01 14:55:07,600 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-06-01 14:55:07,600 - TestMyLog - INFO - 仓库 查找元素 ('xpath', '//*[@id="nl51"]')
+2022-06-01 14:55:07,605 - TestMyLog - INFO - 仓库 在元素 ('xpath', '//*[@id="nl51"]') 中点击
+2022-06-01 14:55:07,671 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:55:07,671 - TestMyLog - INFO - 采购数量 查找元素 ('xpath', '//*[@id="quantity_formattedValue"]')
+2022-06-01 14:55:07,677 - TestMyLog - INFO - 采购数量 在元素 ('xpath', '//*[@id="quantity_formattedValue"]') 中输入文本: 1000
+2022-06-01 14:55:07,751 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:55:07,751 - TestMyLog - INFO - 下拉 查找元素 ('xpath', '//*[@id="inpt_settlement_method5_arrow"]')
+2022-06-01 14:55:07,756 - TestMyLog - INFO - 下拉 在元素 ('xpath', '//*[@id="inpt_settlement_method5_arrow"]') 中点击
+2022-06-01 14:55:08,229 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:55:08,229 - TestMyLog - INFO - 结算方式 查找元素 ('xpath', '//*[@id="nl74"]')
+2022-06-01 14:55:08,236 - TestMyLog - INFO - 结算方式 在元素 ('xpath', '//*[@id="nl74"]') 中点击
+2022-06-01 14:55:08,300 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:55:08,300 - TestMyLog - INFO - 下拉 查找元素 ('xpath', '//*[@id="inpt_supply_mode6_arrow"]')
+2022-06-01 14:55:08,306 - TestMyLog - INFO - 下拉 在元素 ('xpath', '//*[@id="inpt_supply_mode6_arrow"]') 中点击
+2022-06-01 14:55:08,390 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:55:08,390 - TestMyLog - INFO - 供货模式 查找元素 ('xpath', '//*[@id="nl91"]')
+2022-06-01 14:55:08,397 - TestMyLog - INFO - 供货模式 在元素 ('xpath', '//*[@id="nl91"]') 中点击
+2022-06-01 14:55:08,465 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:55:08,466 - TestMyLog - INFO - 添加至PO购物车 查找元素 ('xpath', '//*[@id="submitter"]')
+2022-06-01 14:55:08,472 - TestMyLog - INFO - 添加至PO购物车 在元素 ('xpath', '//*[@id="submitter"]') 中点击
+2022-06-01 14:55:09,502 - TestMyLog - INFO - 弹窗确认操作:
+2022-06-01 14:55:12,539 - TestMyLog - INFO - 弹框确认成功
+2022-06-01 14:55:14,480 - TestMyLog - INFO - 等待时长:1.94 秒
+2022-06-01 14:55:14,480 - TestMyLog - INFO - 购物车列表 查找元素 ('xpath', '//*[@id="ext-element-4"]/div/button[1]')
+2022-06-01 14:55:14,489 - TestMyLog - INFO - 购物车列表 在元素 ('xpath', '//*[@id="ext-element-4"]/div/button[1]') 中点击
+2022-06-01 14:55:21,693 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-06-01 14:55:21,694 - TestMyLog - INFO - 货品编码 查找元素 ('css selector', '#sub_itemid')
+2022-06-01 14:55:21,707 - TestMyLog - INFO - 货品编码 在元素 ('css selector', '#sub_itemid') 中输入文本: PN0000000057161
+2022-06-01 14:55:21,837 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:55:21,837 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#search')
+2022-06-01 14:55:21,842 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#search') 中点击
+2022-06-01 14:55:25,313 - TestMyLog - INFO - 等待时长:3.41 秒
+2022-06-01 14:55:25,313 - TestMyLog - INFO - 勾选单据 查找元素 ('css selector', '#checkbox1_fs > img')
+2022-06-01 14:55:25,319 - TestMyLog - INFO - 勾选单据 在元素 ('css selector', '#checkbox1_fs > img') 中点击
+2022-06-01 14:55:25,845 - TestMyLog - INFO - 等待时长:0.07 秒
+2022-06-01 14:55:25,845 - TestMyLog - INFO - 提交 查找元素 ('css selector', '#submitter')
+2022-06-01 14:55:25,851 - TestMyLog - INFO - 提交 在元素 ('css selector', '#submitter') 中点击
+2022-06-01 14:55:50,553 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-01 14:55:50,554 - TestMyLog - INFO - 刷新 查找元素 ('xpath', '//*[@id="refresh"]')
+2022-06-01 14:55:50,565 - TestMyLog - INFO - 刷新 在元素 ('xpath', '//*[@id="refresh"]') 中点击
+2022-06-01 14:55:53,682 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:55:53,682 - TestMyLog - INFO - PO单号 查找元素 ('xpath', '//*[@id="poidlink"]')
+2022-06-01 14:55:53,689 - TestMyLog - INFO - PO单号 在元素 ('xpath', '//*[@id="poidlink"]') 中获取文本
+2022-06-01 14:55:53,695 - TestMyLog - INFO - PO单号 元素 ('xpath', '//*[@id="poidlink"]') 的文本内容为 PO000013641
+2022-06-01 14:55:55,710 - TestMyLog - INFO - PO单号链接 查找元素 ('xpath', '//*[@id="poidlink"]')
+2022-06-01 14:55:55,731 - TestMyLog - INFO - PO单号链接 在元素 ('xpath', '//*[@id="poidlink"]') 中点击
+2022-06-01 14:56:04,625 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-01 14:56:04,625 - TestMyLog - INFO - 编辑 查找元素 ('css selector', '#edit')
+2022-06-01 14:56:04,631 - TestMyLog - INFO - 编辑 在元素 ('css selector', '#edit') 中点击
+2022-06-01 14:56:12,686 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:56:12,686 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_custbody_hg_if_compute_s2_arrow')
+2022-06-01 14:56:12,691 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_custbody_hg_if_compute_s2_arrow') 中点击
+2022-06-01 14:56:33,329 - TestMyLog - ERROR - 否 等待元素可见失败:('css selector', '#nl4')
+Traceback (most recent call last):
+  File "F:\HS\UI测试-NS\Common\BasePage.py", line 39, in wait_eleVisible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-06-01 14:56:33,531 - TestMyLog - INFO - 截屏成功,图片路径为F:\HS\UI测试-NS\NS_PO\TestNS\Imgs\否_202206011456.png

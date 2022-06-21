@@ -1,0 +1,73 @@
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_subsidiary_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_subsidiary_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.04 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#subsidiary_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#subsidiary_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.77 秒
+INFO     TestMyLog:BasePage.py:75 输入子公司 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入子公司 在元素 ('css selector', '#st') 中输入文本: 母公司 : Felicita Vita Privat Ltd. : Geek Miracle International Holdings Limited : Geek Miracle (BVI) Limited : IMiracle (HK) Limited
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择子公司 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择子公司 在元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_account_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_account_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#account_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#account_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 科目 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 科目 在元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_inventory_item_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_inventory_item_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#item_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#item_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:4.01 秒
+INFO     TestMyLog:BasePage.py:75 输入货品 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入货品 在元素 ('css selector', '#st') 中输入文本: PN0000000056956
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择货品 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(2) > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择货品 在元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(2) > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 点击一下 查找元素 ('css selector', '#inventory_splits > tbody > tr.uir-machine-row.uir-machine-row-odd.listtextnonedit.uir-machine-row-focused > td:nth-child(3) > div')
+INFO     TestMyLog:BasePage.py:127 点击一下 在元素 ('css selector', '#inventory_splits > tbody > tr.uir-machine-row.uir-machine-row-odd.listtextnonedit.uir-machine-row-focused > td:nth-child(3) > div') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_inventory_location_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_inventory_location_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#location_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#location_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.60 秒
+INFO     TestMyLog:BasePage.py:75 输入仓库 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入仓库 在元素 ('css selector', '#st') 中输入文本: 深圳仓-新香港公司
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择仓库 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择仓库 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 点击一下 查找元素 ('css selector', '#inventory_splits > tbody > tr.uir-machine-row.uir-machine-row-odd.listtextnonedit.uir-machine-row-focused > td:nth-child(7) > div')
+INFO     TestMyLog:BasePage.py:127 点击一下 在元素 ('css selector', '#inventory_splits > tbody > tr.uir-machine-row.uir-machine-row-odd.listtextnonedit.uir-machine-row-focused > td:nth-child(7) > div') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 输入仓库 查找元素 ('css selector', '#adjustqtyby_formattedValue')
+INFO     TestMyLog:BasePage.py:100 输入仓库 在元素 ('css selector', '#adjustqtyby_formattedValue') 中输入文本: 1000
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 添加 查找元素 ('css selector', '#inventory_addedit')
+INFO     TestMyLog:BasePage.py:127 添加 在元素 ('css selector', '#inventory_addedit') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 保存 查找元素 ('css selector', '#secondarysubmitter')
+INFO     TestMyLog:BasePage.py:127 保存 在元素 ('css selector', '#secondarysubmitter') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 库存调整单号 查找元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div')
+INFO     TestMyLog:BasePage.py:163 库存调整单号 在元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 中获取文本
+INFO     TestMyLog:BasePage.py:166 库存调整单号 元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 的文本内容为 IA000009305

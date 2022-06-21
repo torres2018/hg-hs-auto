@@ -1,0 +1,25 @@
+2022-06-10 11:00:47,293 - TestMyLog - INFO - 数据读取成功
+2022-06-10 11:00:47,332 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-06-10 11:00:47,332 - TestMyLog - INFO - 采购单号 查找元素 ('css selector', '#search_po_number')
+2022-06-10 11:00:47,338 - TestMyLog - INFO - 采购单号 在元素 ('css selector', '#search_po_number') 中输入文本: PO000013661
+2022-06-10 11:00:49,498 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-10 11:00:49,498 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#search')
+2022-06-10 11:00:49,504 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#search') 中点击
+2022-06-10 11:01:04,949 - TestMyLog - INFO - 等待时长:15.39 秒
+2022-06-10 11:01:04,949 - TestMyLog - INFO - 日期 查找元素 ('css selector', '#send_time')
+2022-06-10 11:01:04,956 - TestMyLog - INFO - 日期 在元素 ('css selector', '#send_time') 中输入文本: 2022-06-10
+2022-06-10 11:01:05,065 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 11:01:05,065 - TestMyLog - INFO - 清除发货数量 查找元素 ('css selector', '#custpage_sendquantity1_formattedValue')
+2022-06-10 11:01:05,074 - TestMyLog - INFO - 清除发货数量 在元素 ('css selector', '#custpage_sendquantity1_formattedValue') 中清除
+2022-06-10 11:01:05,381 - TestMyLog - INFO - 重新输入发货数量 查找元素 ('css selector', '#custpage_sendquantity1_formattedValue')
+2022-06-10 11:01:05,393 - TestMyLog - INFO - 重新输入发货数量 在元素 ('css selector', '#custpage_sendquantity1_formattedValue') 中输入文本: 100
+2022-06-10 11:01:05,465 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 11:01:05,465 - TestMyLog - INFO - 提交 查找元素 ('css selector', '#submitter')
+2022-06-10 11:01:05,472 - TestMyLog - INFO - 提交 在元素 ('css selector', '#submitter') 中点击
+2022-06-10 11:01:34,697 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-10 11:01:34,697 - TestMyLog - INFO - 刷新 查找元素 ('css selector', '#custpage_refresh')
+2022-06-10 11:01:34,704 - TestMyLog - INFO - 刷新 在元素 ('css selector', '#custpage_refresh') 中点击
+2022-06-10 11:01:37,845 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-10 11:01:37,845 - TestMyLog - INFO - 送货通知单号 查找元素 ('css selector', '#info_listrow0 > td:nth-child(6)')
+2022-06-10 11:01:37,851 - TestMyLog - INFO - 送货通知单号 在元素 ('css selector', '#info_listrow0 > td:nth-child(6)') 中获取文本
+2022-06-10 11:01:37,857 - TestMyLog - INFO - 送货通知单号 元素 ('css selector', '#info_listrow0 > td:nth-child(6)') 的文本内容为 JH2206100001

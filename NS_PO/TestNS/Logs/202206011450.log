@@ -1,0 +1,98 @@
+2022-06-01 14:50:24,247 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-06-01 14:50:24,248 - TestMyLog - INFO - 货品编码 查找元素 ('xpath', '//*[@id="itemid"]')
+2022-06-01 14:50:24,255 - TestMyLog - INFO - 货品编码 在元素 ('xpath', '//*[@id="itemid"]') 中输入文本: PN0000000057161
+2022-06-01 14:50:24,336 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:50:24,336 - TestMyLog - INFO - 搜索 查找元素 ('xpath', '//*[@id="search"]')
+2022-06-01 14:50:24,344 - TestMyLog - INFO - 搜索 在元素 ('xpath', '//*[@id="search"]') 中点击
+2022-06-01 14:50:30,664 - TestMyLog - INFO - 等待时长:6.27 秒
+2022-06-01 14:50:30,664 - TestMyLog - INFO - 添加进入购物车 查找元素 ('xpath', '//*[@id="info_listrow0"]/td[2]/a')
+2022-06-01 14:50:30,673 - TestMyLog - INFO - 添加进入购物车 在元素 ('xpath', '//*[@id="info_listrow0"]/td[2]/a') 中点击
+2022-06-01 14:50:30,756 - TestMyLog - INFO - 切换到最新打开的窗口
+2022-06-01 14:50:36,876 - TestMyLog - INFO - 等待时长:0.08 秒
+2022-06-01 14:50:36,876 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_po_or_to1_arrow')
+2022-06-01 14:50:36,884 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_po_or_to1_arrow') 中点击
+2022-06-01 14:50:36,963 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:50:36,963 - TestMyLog - INFO - PO类型 查找元素 ('css selector', '#nl2')
+2022-06-01 14:50:36,969 - TestMyLog - INFO - PO类型 在元素 ('css selector', '#nl2') 中点击
+2022-06-01 14:50:43,371 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-06-01 14:50:43,371 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_location3_arrow')
+2022-06-01 14:50:43,385 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_location3_arrow') 中点击
+2022-06-01 14:50:43,588 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-06-01 14:50:43,589 - TestMyLog - INFO - 仓库 查找元素 ('xpath', '//*[@id="nl51"]')
+2022-06-01 14:50:43,594 - TestMyLog - INFO - 仓库 在元素 ('xpath', '//*[@id="nl51"]') 中点击
+2022-06-01 14:50:43,654 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:50:43,655 - TestMyLog - INFO - 采购数量 查找元素 ('xpath', '//*[@id="quantity_formattedValue"]')
+2022-06-01 14:50:43,660 - TestMyLog - INFO - 采购数量 在元素 ('xpath', '//*[@id="quantity_formattedValue"]') 中输入文本: 1000
+2022-06-01 14:50:43,731 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:50:43,731 - TestMyLog - INFO - 下拉 查找元素 ('xpath', '//*[@id="inpt_settlement_method5_arrow"]')
+2022-06-01 14:50:43,737 - TestMyLog - INFO - 下拉 在元素 ('xpath', '//*[@id="inpt_settlement_method5_arrow"]') 中点击
+2022-06-01 14:50:44,206 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:50:44,206 - TestMyLog - INFO - 结算方式 查找元素 ('xpath', '//*[@id="nl74"]')
+2022-06-01 14:50:44,212 - TestMyLog - INFO - 结算方式 在元素 ('xpath', '//*[@id="nl74"]') 中点击
+2022-06-01 14:50:44,276 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:50:44,276 - TestMyLog - INFO - 下拉 查找元素 ('xpath', '//*[@id="inpt_supply_mode6_arrow"]')
+2022-06-01 14:50:44,282 - TestMyLog - INFO - 下拉 在元素 ('xpath', '//*[@id="inpt_supply_mode6_arrow"]') 中点击
+2022-06-01 14:50:44,367 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-01 14:50:44,367 - TestMyLog - INFO - 供货模式 查找元素 ('xpath', '//*[@id="nl91"]')
+2022-06-01 14:50:44,374 - TestMyLog - INFO - 供货模式 在元素 ('xpath', '//*[@id="nl91"]') 中点击
+2022-06-01 14:50:44,452 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:50:44,452 - TestMyLog - INFO - 添加至PO购物车 查找元素 ('xpath', '//*[@id="submitter"]')
+2022-06-01 14:50:44,460 - TestMyLog - INFO - 添加至PO购物车 在元素 ('xpath', '//*[@id="submitter"]') 中点击
+2022-06-01 14:50:45,179 - TestMyLog - INFO - 弹窗确认操作:
+2022-06-01 14:50:48,212 - TestMyLog - INFO - 弹框确认成功
+2022-06-01 14:50:50,319 - TestMyLog - INFO - 等待时长:2.11 秒
+2022-06-01 14:50:50,320 - TestMyLog - INFO - 购物车列表 查找元素 ('xpath', '//*[@id="ext-element-4"]/div/button[1]')
+2022-06-01 14:50:50,331 - TestMyLog - INFO - 购物车列表 在元素 ('xpath', '//*[@id="ext-element-4"]/div/button[1]') 中点击
+2022-06-01 14:50:58,008 - TestMyLog - INFO - 等待时长:0.07 秒
+2022-06-01 14:50:58,008 - TestMyLog - INFO - 货品编码 查找元素 ('css selector', '#sub_itemid')
+2022-06-01 14:50:58,024 - TestMyLog - INFO - 货品编码 在元素 ('css selector', '#sub_itemid') 中输入文本: PN0000000057161
+2022-06-01 14:50:58,179 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:50:58,179 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#search')
+2022-06-01 14:50:58,185 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#search') 中点击
+2022-06-01 14:51:01,800 - TestMyLog - INFO - 等待时长:3.55 秒
+2022-06-01 14:51:01,800 - TestMyLog - INFO - 勾选单据 查找元素 ('css selector', '#checkbox1_fs > img')
+2022-06-01 14:51:01,806 - TestMyLog - INFO - 勾选单据 在元素 ('css selector', '#checkbox1_fs > img') 中点击
+2022-06-01 14:51:02,327 - TestMyLog - INFO - 等待时长:0.09 秒
+2022-06-01 14:51:02,327 - TestMyLog - INFO - 提交 查找元素 ('css selector', '#submitter')
+2022-06-01 14:51:02,333 - TestMyLog - INFO - 提交 在元素 ('css selector', '#submitter') 中点击
+2022-06-01 14:51:26,977 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-06-01 14:51:26,977 - TestMyLog - INFO - 刷新 查找元素 ('xpath', '//*[@id="refresh"]')
+2022-06-01 14:51:26,987 - TestMyLog - INFO - 刷新 在元素 ('xpath', '//*[@id="refresh"]') 中点击
+2022-06-01 14:51:30,132 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:51:30,132 - TestMyLog - INFO - PO单号 查找元素 ('xpath', '//*[@id="poidlink"]')
+2022-06-01 14:51:30,139 - TestMyLog - INFO - PO单号 在元素 ('xpath', '//*[@id="poidlink"]') 中获取文本
+2022-06-01 14:51:30,146 - TestMyLog - INFO - PO单号 元素 ('xpath', '//*[@id="poidlink"]') 的文本内容为 PO000013640
+2022-06-01 14:51:32,155 - TestMyLog - INFO - PO单号链接 查找元素 ('xpath', '//*[@id="poidlink"]')
+2022-06-01 14:51:32,199 - TestMyLog - INFO - PO单号链接 在元素 ('xpath', '//*[@id="poidlink"]') 中点击
+2022-06-01 14:51:42,168 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-06-01 14:51:42,168 - TestMyLog - INFO - 编辑 查找元素 ('css selector', '#edit')
+2022-06-01 14:51:42,179 - TestMyLog - INFO - 编辑 在元素 ('css selector', '#edit') 中点击
+2022-06-01 14:51:51,505 - TestMyLog - INFO - 切换到默认页面
+2022-06-01 14:51:54,532 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:51:54,532 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_custbody_hg_if_compute_s2_arrow')
+2022-06-01 14:51:54,539 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_custbody_hg_if_compute_s2_arrow') 中点击
+2022-06-01 14:51:54,705 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-01 14:51:54,705 - TestMyLog - INFO - 否 查找元素 ('css selector', '#nl4')
+2022-06-01 14:51:54,711 - TestMyLog - INFO - 否 在元素 ('css selector', '#nl4') 中点击
+2022-06-01 14:51:54,839 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-01 14:51:54,839 - TestMyLog - INFO - 交付日期 查找元素 ('css selector', '#custbody_hg_jiaof_fdate')
+2022-06-01 14:51:54,846 - TestMyLog - INFO - 交付日期 在元素 ('css selector', '#custbody_hg_jiaof_fdate') 中输入文本: 2022-06-01
+2022-06-01 14:51:57,002 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-06-01 14:51:57,003 - TestMyLog - INFO - 保存 查找元素 ('css selector', '#btn_multibutton_submitter')
+2022-06-01 14:51:57,016 - TestMyLog - INFO - 保存 在元素 ('css selector', '#btn_multibutton_submitter') 中点击
+2022-06-01 14:51:58,085 - TestMyLog - ERROR - 点击操作失败
+Traceback (most recent call last):
+  File "F:\HS\UI测试-NS\Common\BasePage.py", line 129, in click_Element
+    ele.click()
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <input aria-expanded="false" role="button" onblur="NLMultiButton_clearMultiButtonMenus();" onkeydown="return getNLMultiButtonByName('multibutton_submitter').onKeyPress(event);" onclick="getNLMultiButtonByName('multibutton_submitter').onMainButtonClick(this);return false;" id="btn_multibutton_submitter" type="submit" class="rndbuttoninpt bntBgT" style="vertical-align:middle;" value="保存" onkeypress="setEventCancelBubble(event);" onmousedown="this.setAttribute('_mousedown','T'); setButtonDown(true, false, this);" onmouseup="this.setAttribute('_mousedown','F'); setButtonDown(false, false, this);" onmouseout="if(this.getAttribute('_mousedown')=='T') setButtonDown(false, false, this);" onmouseover="if(this.getAttribute('_mousedown')=='T') setButtonDown(true, false, this);"> is not clickable at point (48, 13). Other element would receive the click: <div id="devpgloadtime" class="ns-logo">...</div>
+  (Session info: chrome=101.0.4951.67)
+
+2022-06-01 14:51:58,297 - TestMyLog - INFO - 截屏成功,图片路径为F:\HS\UI测试-NS\NS_PO\TestNS\Imgs\保存_202206011451.png

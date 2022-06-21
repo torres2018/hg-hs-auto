@@ -1,0 +1,91 @@
+[ {
+  "uid" : "2a19a1bdefb07c8b",
+  "name" : "单个送货通知单",
+  "time" : {
+    "start" : 1654831879759,
+    "stop" : 1654831931140,
+    "duration" : 51381
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "77599186ced87330",
+  "name" : "货品创建成功",
+  "time" : {
+    "start" : 1654832020009,
+    "stop" : 1654832058392,
+    "duration" : 38383
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "212c7b275d85fff5",
+  "name" : "采购单复制成功",
+  "time" : {
+    "start" : 1654831783623,
+    "stop" : 1654831856154,
+    "duration" : 72531
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "e759d85083615ca2",
+  "name" : "商品创建成功",
+  "time" : {
+    "start" : 1654831948470,
+    "stop" : 1654832000828,
+    "duration" : 52358
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "31bcd15c073739ba",
+  "name" : "外部采购价创建成功",
+  "time" : {
+    "start" : 1654832077796,
+    "stop" : 1654832129134,
+    "duration" : 51338
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "2b4f57709dd1e56c",
+  "name" : "AR余额增加与冲减",
+  "time" : {
+    "start" : 1654831581430,
+    "stop" : 1654831631984,
+    "duration" : 50554
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "5ad74c157cd222fb",
+  "name" : "供应商创建成功",
+  "time" : {
+    "start" : 1654831493494,
+    "stop" : 1654831563569,
+    "duration" : 70075
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "e0146baccb300b98",
+  "name" : "采购单创建成功",
+  "time" : {
+    "start" : 1654831650317,
+    "stop" : 1654831764050,
+    "duration" : 113733
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "52b718ab38ba6859",
+  "name" : "库存调整成功",
+  "time" : {
+    "start" : 1654832146624,
+    "stop" : 1654832204700,
+    "duration" : 58076
+  },
+  "status" : "passed",
+  "severity" : "minor"
+} ]

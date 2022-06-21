@@ -1,0 +1,137 @@
+INFO     TestMyLog:BasePage.py:75 商品名称 查找元素 ('css selector', '#altname')
+INFO     TestMyLog:BasePage.py:100 商品名称 在元素 ('css selector', '#altname') 中输入文本: test1654831953
+INFO     TestMyLog:BasePage.py:75 采购名称 查找元素 ('css selector', '#custrecord_hq_spu_p_name')
+INFO     TestMyLog:BasePage.py:100 采购名称 在元素 ('css selector', '#custrecord_hq_spu_p_name') 中输入文本: purchase1654831953
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custrecord_hq_spu_bland_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custrecord_hq_spu_bland_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custrecord_hq_spu_bland_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custrecord_hq_spu_bland_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.77 秒
+INFO     TestMyLog:BasePage.py:75 输入品牌 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入品牌 在元素 ('css selector', '#st') 中输入文本: Eleaf牌/依丽芙牌
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择品牌 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择品牌 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custrecord_hg_spu_soec_1_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custrecord_hg_spu_soec_1_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custrecord_hg_spu_soec_1_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custrecord_hg_spu_soec_1_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.59 秒
+INFO     TestMyLog:BasePage.py:75 输入规格1 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入规格1 在元素 ('css selector', '#st') 中输入文本: Type
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择规格1 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择规格1 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custrecord_hg_spu_spec_2_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custrecord_hg_spu_spec_2_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custrecord_hg_spu_spec_2_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custrecord_hg_spu_spec_2_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.55 秒
+INFO     TestMyLog:BasePage.py:75 输入规格2 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入规格2 在元素 ('css selector', '#st') 中输入文本: Strength
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择规格2 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择规格2 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custrecord_hq_bglx2_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custrecord_hq_bglx2_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.06 秒
+INFO     TestMyLog:BasePage.py:75 报关类型 查找元素 ('css selector', '#nl3')
+INFO     TestMyLog:BasePage.py:127 报关类型 在元素 ('css selector', '#nl3') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custrecord_hq_jxxx13_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custrecord_hq_jxxx13_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 进销性质 查找元素 ('css selector', '#nl8')
+INFO     TestMyLog:BasePage.py:127 进销性质 在元素 ('css selector', '#nl8') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#custrecord_hq_jiaoqi')
+INFO     TestMyLog:BasePage.py:100 下拉 在元素 ('css selector', '#custrecord_hq_jiaoqi') 中输入文本: 30
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custrecord_hg_d_cd7_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custrecord_hg_d_cd7_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 类别 查找元素 ('css selector', '#nl16')
+INFO     TestMyLog:BasePage.py:127 类别 在元素 ('css selector', '#nl16') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custrecord_hg_if_pu_df8_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custrecord_hg_if_pu_df8_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 是否为铺货 查找元素 ('css selector', '#nl19')
+INFO     TestMyLog:BasePage.py:127 是否为铺货 在元素 ('css selector', '#nl19') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custrecord_hg_mubd_vend_rf_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custrecord_hg_mubd_vend_rf_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custrecord_hg_mubd_vend_rf_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custrecord_hg_mubd_vend_rf_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.61 秒
+INFO     TestMyLog:BasePage.py:75 输入主供应商 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入主供应商 在元素 ('css selector', '#st') 中输入文本: VD000002760 深圳市米茄科技有限公司
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择主供应商 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择主供应商 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#parent_actionbuttons_custrecord_hg_spu_unit_fs > a:nth-child(2)')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#parent_actionbuttons_custrecord_hg_spu_unit_fs > a:nth-child(2)') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.05 秒
+INFO     TestMyLog:BasePage.py:75 列表 查找元素 ('css selector', '#custrecord_hg_spu_unit_popup_list')
+INFO     TestMyLog:BasePage.py:127 列表 在元素 ('css selector', '#custrecord_hg_spu_unit_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.69 秒
+INFO     TestMyLog:BasePage.py:75 输入单位 查找元素 ('css selector', '#st')
+INFO     TestMyLog:BasePage.py:100 输入单位 在元素 ('css selector', '#st') 中输入文本: 个
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#Search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#Search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 选择单位 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 选择单位 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custrecord_hg_sd_caigsw9_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custrecord_hg_sd_caigsw9_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 库存分类·一级 查找元素 ('css selector', '#nl24')
+INFO     TestMyLog:BasePage.py:127 库存分类·一级 在元素 ('css selector', '#nl24') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#inpt_custrecord_hq_cgfl110_arrow')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#inpt_custrecord_hq_cgfl110_arrow') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 库存分类·二级 查找元素 ('css selector', '#nl36')
+INFO     TestMyLog:BasePage.py:127 库存分类·二级 在元素 ('css selector', '#nl36') 中点击
+INFO     TestMyLog:BasePage.py:66 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#custrecord_hg_department_spu_popup_list')
+INFO     TestMyLog:BasePage.py:149 下拉 在元素 ('css selector', '#custrecord_hg_department_spu_popup_list') 上悬停
+INFO     TestMyLog:BasePage.py:75 下拉 查找元素 ('css selector', '#custrecord_hg_department_spu_popup_list')
+INFO     TestMyLog:BasePage.py:127 下拉 在元素 ('css selector', '#custrecord_hg_department_spu_popup_list') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.76 秒
+INFO     TestMyLog:BasePage.py:75 部门 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a')
+INFO     TestMyLog:BasePage.py:127 部门 在元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.03 秒
+INFO     TestMyLog:BasePage.py:75 更新 查找元素 ('css selector', '#update')
+INFO     TestMyLog:BasePage.py:127 更新 在元素 ('css selector', '#update') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 保存 查找元素 ('css selector', '#btn_secondarymultibutton_submitter')
+INFO     TestMyLog:BasePage.py:127 保存 在元素 ('css selector', '#btn_secondarymultibutton_submitter') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 商品编码 查找元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div')
+INFO     TestMyLog:BasePage.py:163 商品编码 在元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 中获取文本
+INFO     TestMyLog:BasePage.py:166 商品编码 元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 的文本内容为 SPU0000000015788
+INFO     TestMyLog:BasePage.py:293 数据写入成功

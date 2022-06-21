@@ -1,0 +1,136 @@
+2022-05-31 14:23:39,606 - TestMyLog - INFO - 商品名称 查找元素 ('css selector', '#altname')
+2022-05-31 14:23:39,626 - TestMyLog - INFO - 商品名称 在元素 ('css selector', '#altname') 中输入文本: test1653978219
+2022-05-31 14:23:39,771 - TestMyLog - INFO - 采购名称 查找元素 ('css selector', '#custrecord_hq_spu_p_name')
+2022-05-31 14:23:39,780 - TestMyLog - INFO - 采购名称 在元素 ('css selector', '#custrecord_hq_spu_p_name') 中输入文本: purchase1653978219
+2022-05-31 14:23:39,934 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:23:39,934 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_custrecord_hq_spu_bland_fs > a:nth-child(2)')
+2022-05-31 14:23:39,940 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_custrecord_hq_spu_bland_fs > a:nth-child(2)') 中点击
+2022-05-31 14:23:40,044 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:23:40,044 - TestMyLog - INFO - 列表 查找元素 ('css selector', '#custrecord_hq_spu_bland_popup_list')
+2022-05-31 14:23:40,049 - TestMyLog - INFO - 列表 在元素 ('css selector', '#custrecord_hq_spu_bland_popup_list') 中点击
+2022-05-31 14:23:41,519 - TestMyLog - INFO - 等待时长:1.35 秒
+2022-05-31 14:23:41,520 - TestMyLog - INFO - 输入品牌 查找元素 ('css selector', '#st')
+2022-05-31 14:23:41,528 - TestMyLog - INFO - 输入品牌 在元素 ('css selector', '#st') 中输入文本: Eleaf牌/依丽芙牌
+2022-05-31 14:23:42,625 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 14:23:42,625 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-05-31 14:23:42,635 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-05-31 14:23:45,796 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-05-31 14:23:45,797 - TestMyLog - INFO - 选择品牌 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+2022-05-31 14:23:45,808 - TestMyLog - INFO - 选择品牌 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+2022-05-31 14:23:45,967 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:23:45,967 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_custrecord_hg_spu_soec_1_fs > a:nth-child(2)')
+2022-05-31 14:23:45,974 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_custrecord_hg_spu_soec_1_fs > a:nth-child(2)') 中点击
+2022-05-31 14:23:46,065 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:23:46,065 - TestMyLog - INFO - 列表 查找元素 ('css selector', '#custrecord_hg_spu_soec_1_popup_list')
+2022-05-31 14:23:46,072 - TestMyLog - INFO - 列表 在元素 ('css selector', '#custrecord_hg_spu_soec_1_popup_list') 中点击
+2022-05-31 14:23:47,049 - TestMyLog - INFO - 等待时长:0.87 秒
+2022-05-31 14:23:47,049 - TestMyLog - INFO - 输入规格1 查找元素 ('css selector', '#st')
+2022-05-31 14:23:47,058 - TestMyLog - INFO - 输入规格1 在元素 ('css selector', '#st') 中输入文本: Type
+2022-05-31 14:23:49,155 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-05-31 14:23:49,156 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-05-31 14:23:49,166 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-05-31 14:23:52,295 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 14:23:52,296 - TestMyLog - INFO - 选择规格1 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+2022-05-31 14:23:52,311 - TestMyLog - INFO - 选择规格1 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+2022-05-31 14:23:52,445 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:23:52,445 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_custrecord_hg_spu_spec_2_fs > a:nth-child(2)')
+2022-05-31 14:23:52,451 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_custrecord_hg_spu_spec_2_fs > a:nth-child(2)') 中点击
+2022-05-31 14:23:52,534 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:23:52,534 - TestMyLog - INFO - 列表 查找元素 ('css selector', '#custrecord_hg_spu_spec_2_popup_list')
+2022-05-31 14:23:52,541 - TestMyLog - INFO - 列表 在元素 ('css selector', '#custrecord_hg_spu_spec_2_popup_list') 中点击
+2022-05-31 14:23:53,669 - TestMyLog - INFO - 等待时长:1.01 秒
+2022-05-31 14:23:53,669 - TestMyLog - INFO - 输入规格2 查找元素 ('css selector', '#st')
+2022-05-31 14:23:53,674 - TestMyLog - INFO - 输入规格2 在元素 ('css selector', '#st') 中输入文本: Strength
+2022-05-31 14:23:55,753 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-05-31 14:23:55,753 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-05-31 14:23:55,763 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-05-31 14:23:58,886 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-05-31 14:23:58,887 - TestMyLog - INFO - 选择规格2 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+2022-05-31 14:23:58,903 - TestMyLog - INFO - 选择规格2 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+2022-05-31 14:23:59,120 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-05-31 14:23:59,120 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_custrecord_hq_bglx2_arrow')
+2022-05-31 14:23:59,127 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_custrecord_hq_bglx2_arrow') 中点击
+2022-05-31 14:23:59,332 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-05-31 14:23:59,332 - TestMyLog - INFO - 报关类型 查找元素 ('css selector', '#nl3')
+2022-05-31 14:23:59,338 - TestMyLog - INFO - 报关类型 在元素 ('css selector', '#nl3') 中点击
+2022-05-31 14:23:59,460 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:23:59,460 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_custrecord_hq_jxxx13_arrow')
+2022-05-31 14:23:59,465 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_custrecord_hq_jxxx13_arrow') 中点击
+2022-05-31 14:23:59,613 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-05-31 14:23:59,613 - TestMyLog - INFO - 进销性质 查找元素 ('css selector', '#nl8')
+2022-05-31 14:23:59,619 - TestMyLog - INFO - 进销性质 在元素 ('css selector', '#nl8') 中点击
+2022-05-31 14:23:59,743 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:23:59,743 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#custrecord_hq_jiaoqi')
+2022-05-31 14:23:59,749 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#custrecord_hq_jiaoqi') 中输入文本: 30
+2022-05-31 14:23:59,869 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:23:59,869 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_custrecord_hg_d_cd7_arrow')
+2022-05-31 14:23:59,876 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_custrecord_hg_d_cd7_arrow') 中点击
+2022-05-31 14:24:00,041 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:24:00,041 - TestMyLog - INFO - 类别 查找元素 ('css selector', '#nl16')
+2022-05-31 14:24:00,047 - TestMyLog - INFO - 类别 在元素 ('css selector', '#nl16') 中点击
+2022-05-31 14:24:00,168 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:24:00,168 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_custrecord_hg_if_pu_df8_arrow')
+2022-05-31 14:24:00,176 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_custrecord_hg_if_pu_df8_arrow') 中点击
+2022-05-31 14:24:00,317 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:24:00,317 - TestMyLog - INFO - 是否为铺货 查找元素 ('css selector', '#nl19')
+2022-05-31 14:24:00,322 - TestMyLog - INFO - 是否为铺货 在元素 ('css selector', '#nl19') 中点击
+2022-05-31 14:24:00,463 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-05-31 14:24:00,463 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_custrecord_hg_mubd_vend_rf_fs > a:nth-child(2)')
+2022-05-31 14:24:00,469 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_custrecord_hg_mubd_vend_rf_fs > a:nth-child(2)') 中点击
+2022-05-31 14:24:00,543 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:24:00,544 - TestMyLog - INFO - 列表 查找元素 ('css selector', '#custrecord_hg_mubd_vend_rf_popup_list')
+2022-05-31 14:24:00,549 - TestMyLog - INFO - 列表 在元素 ('css selector', '#custrecord_hg_mubd_vend_rf_popup_list') 中点击
+2022-05-31 14:24:01,591 - TestMyLog - INFO - 等待时长:0.91 秒
+2022-05-31 14:24:01,591 - TestMyLog - INFO - 输入主供应商 查找元素 ('css selector', '#st')
+2022-05-31 14:24:01,598 - TestMyLog - INFO - 输入主供应商 在元素 ('css selector', '#st') 中输入文本: VD000002760 深圳市米茄科技有限公司
+2022-05-31 14:24:02,724 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-05-31 14:24:02,725 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-05-31 14:24:02,739 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-05-31 14:24:05,924 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-05-31 14:24:05,925 - TestMyLog - INFO - 选择主供应商 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+2022-05-31 14:24:05,937 - TestMyLog - INFO - 选择主供应商 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+2022-05-31 14:24:06,065 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:24:06,065 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_custrecord_hg_spu_unit_fs > a:nth-child(2)')
+2022-05-31 14:24:06,072 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_custrecord_hg_spu_unit_fs > a:nth-child(2)') 中点击
+2022-05-31 14:24:06,150 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-05-31 14:24:06,150 - TestMyLog - INFO - 列表 查找元素 ('css selector', '#custrecord_hg_spu_unit_popup_list')
+2022-05-31 14:24:06,157 - TestMyLog - INFO - 列表 在元素 ('css selector', '#custrecord_hg_spu_unit_popup_list') 中点击
+2022-05-31 14:24:07,118 - TestMyLog - INFO - 等待时长:0.82 秒
+2022-05-31 14:24:07,118 - TestMyLog - INFO - 输入单位 查找元素 ('css selector', '#st')
+2022-05-31 14:24:07,125 - TestMyLog - INFO - 输入单位 在元素 ('css selector', '#st') 中输入文本: 个
+2022-05-31 14:24:08,229 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-05-31 14:24:08,230 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-05-31 14:24:08,247 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-05-31 14:24:11,414 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-05-31 14:24:11,415 - TestMyLog - INFO - 选择单位 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+2022-05-31 14:24:11,429 - TestMyLog - INFO - 选择单位 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+2022-05-31 14:24:11,565 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:24:11,565 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_custrecord_hg_sd_caigsw9_arrow')
+2022-05-31 14:24:11,571 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_custrecord_hg_sd_caigsw9_arrow') 中点击
+2022-05-31 14:24:11,699 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:24:11,699 - TestMyLog - INFO - 库存分类·一级 查找元素 ('css selector', '#nl24')
+2022-05-31 14:24:11,707 - TestMyLog - INFO - 库存分类·一级 在元素 ('css selector', '#nl24') 中点击
+2022-05-31 14:24:13,975 - TestMyLog - INFO - 等待时长:0.16 秒
+2022-05-31 14:24:13,976 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_custrecord_hq_cgfl110_arrow')
+2022-05-31 14:24:13,984 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_custrecord_hq_cgfl110_arrow') 中点击
+2022-05-31 14:24:14,132 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:24:14,132 - TestMyLog - INFO - 库存分类·二级 查找元素 ('css selector', '#nl36')
+2022-05-31 14:24:14,139 - TestMyLog - INFO - 库存分类·二级 在元素 ('css selector', '#nl36') 中点击
+2022-05-31 14:24:17,938 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-05-31 14:24:17,939 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#custrecord_hg_department_spu_popup_list')
+2022-05-31 14:24:17,950 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#custrecord_hg_department_spu_popup_list') 上悬停
+2022-05-31 14:24:18,229 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#custrecord_hg_department_spu_popup_list')
+2022-05-31 14:24:18,237 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#custrecord_hg_department_spu_popup_list') 中点击
+2022-05-31 14:24:19,297 - TestMyLog - INFO - 等待时长:1.01 秒
+2022-05-31 14:24:19,298 - TestMyLog - INFO - 部门 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a')
+2022-05-31 14:24:19,303 - TestMyLog - INFO - 部门 在元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a') 中点击
+2022-05-31 14:24:19,390 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 14:24:19,390 - TestMyLog - INFO - 更新 查找元素 ('css selector', '#update')
+2022-05-31 14:24:19,395 - TestMyLog - INFO - 更新 在元素 ('css selector', '#update') 中点击
+2022-05-31 14:24:21,557 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-05-31 14:24:21,558 - TestMyLog - INFO - 保存 查找元素 ('css selector', '#btn_secondarymultibutton_submitter')
+2022-05-31 14:24:21,570 - TestMyLog - INFO - 保存 在元素 ('css selector', '#btn_secondarymultibutton_submitter') 中点击
+2022-05-31 14:24:29,238 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-05-31 14:24:29,238 - TestMyLog - INFO - 商品编码 查找元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div')
+2022-05-31 14:24:29,250 - TestMyLog - INFO - 商品编码 在元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 中获取文本
+2022-05-31 14:24:29,258 - TestMyLog - INFO - 商品编码 元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div') 的文本内容为 SPU0000000015782

@@ -1,0 +1,32 @@
+2022-06-08 11:21:18,753 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-08 11:21:18,754 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#NS_MENU_ID0-item1 > a')
+2022-06-08 11:21:18,762 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#NS_MENU_ID0-item1 > a') 中点击
+2022-06-08 11:21:22,132 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-08 11:21:22,133 - TestMyLog - INFO - 采购单号 查找元素 ('css selector', '#Transaction_NUMBERTEXT')
+2022-06-08 11:21:22,142 - TestMyLog - INFO - 采购单号 在元素 ('css selector', '#Transaction_NUMBERTEXT') 中输入文本: PO000013491
+2022-06-08 11:21:22,314 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-06-08 11:21:22,315 - TestMyLog - INFO - 提交 查找元素 ('css selector', '#secondarysubmitter')
+2022-06-08 11:21:22,322 - TestMyLog - INFO - 提交 在元素 ('css selector', '#secondarysubmitter') 中点击
+2022-06-08 11:21:30,121 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-08 11:21:30,121 - TestMyLog - INFO - 查看 查找元素 ('css selector', '#row0 > td.listtextctr.uir-list-row-cell > a.dottedlink.viewitem')
+2022-06-08 11:21:30,127 - TestMyLog - INFO - 查看 在元素 ('css selector', '#row0 > td.listtextctr.uir-list-row-cell > a.dottedlink.viewitem') 中点击
+2022-06-08 11:21:35,301 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-08 11:21:35,302 - TestMyLog - INFO - 操作 查找元素 ('css selector', '#spn_ACTIONMENU_d1 > span.pgm_bg > a')
+2022-06-08 11:21:35,310 - TestMyLog - INFO - 操作 在元素 ('css selector', '#spn_ACTIONMENU_d1 > span.pgm_bg > a') 上悬停
+2022-06-08 11:21:35,616 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-08 11:21:35,616 - TestMyLog - INFO - 制作副本 查找元素 ('css selector', '#nl2 > a > span')
+2022-06-08 11:21:35,623 - TestMyLog - INFO - 制作副本 在元素 ('css selector', '#nl2 > a > span') 中点击
+2022-06-08 11:21:41,407 - TestMyLog - INFO - 切换到默认页面
+2022-06-08 11:21:44,435 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-08 11:21:44,436 - TestMyLog - INFO - 保存 查找元素 ('css selector', '#btn_secondarymultibutton_submitter')
+2022-06-08 11:21:44,442 - TestMyLog - INFO - 保存 在元素 ('css selector', '#btn_secondarymultibutton_submitter') 中点击
+2022-06-08 11:21:56,883 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-08 11:21:56,883 - TestMyLog - INFO - 确认 查找元素 ('css selector', '#custpage_purchase_order')
+2022-06-08 11:21:56,889 - TestMyLog - INFO - 确认 在元素 ('css selector', '#custpage_purchase_order') 中点击
+2022-06-08 11:22:13,604 - TestMyLog - INFO - 等待时长:0.07 秒
+2022-06-08 11:22:13,604 - TestMyLog - INFO - 审批 查找元素 ('css selector', '#custpageworkflow398')
+2022-06-08 11:22:13,612 - TestMyLog - INFO - 审批 在元素 ('css selector', '#custpageworkflow398') 中点击
+2022-06-08 11:22:28,145 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-08 11:22:28,145 - TestMyLog - INFO - 采购单号 查找元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div.uir-record-id')
+2022-06-08 11:22:28,151 - TestMyLog - INFO - 采购单号 在元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div.uir-record-id') 中获取文本
+2022-06-08 11:22:28,159 - TestMyLog - INFO - 采购单号 元素 ('css selector', '#main_form > table > tbody > tr:nth-child(1) > td > div.uir-page-title > div.uir-page-title-secondline > div.uir-record-id') 的文本内容为 PO000013649

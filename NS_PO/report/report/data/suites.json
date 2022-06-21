@@ -1,0 +1,198 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testCases",
+    "children" : [ {
+      "name" : "test_supplierCreation",
+      "children" : [ {
+        "name" : "TestSupplierCreation",
+        "children" : [ {
+          "name" : "供应商创建成功",
+          "uid" : "5ad74c157cd222fb",
+          "parentUid" : "174a7cb8e004502a35366f36b164af53",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654831493494,
+            "stop" : 1654831563569,
+            "duration" : 70075
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "174a7cb8e004502a35366f36b164af53"
+      } ],
+      "uid" : "c1c2a49d6c2fb85ec5fc79faec921fce"
+    }, {
+      "name" : "test_applicationForm",
+      "children" : [ {
+        "name" : "TestApplicationForm",
+        "children" : [ {
+          "name" : "AR余额增加与冲减",
+          "uid" : "2b4f57709dd1e56c",
+          "parentUid" : "cdcfb092b7098f831bd8257ff47f845c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654831581430,
+            "stop" : 1654831631984,
+            "duration" : 50554
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cdcfb092b7098f831bd8257ff47f845c"
+      } ],
+      "uid" : "b9f73d59e48c056cc8140e4091b36d9c"
+    }, {
+      "name" : "test_purchaseCreate",
+      "children" : [ {
+        "name" : "TestPurchaseCreate",
+        "children" : [ {
+          "name" : "采购单创建成功",
+          "uid" : "e0146baccb300b98",
+          "parentUid" : "e3d0388743a5a7019db5edb02236c581",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654831650317,
+            "stop" : 1654831764050,
+            "duration" : 113733
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e3d0388743a5a7019db5edb02236c581"
+      } ],
+      "uid" : "bd7b3f64b7e0d6da1ff273ac365207e7"
+    }, {
+      "name" : "test_purchaseCopy",
+      "children" : [ {
+        "name" : "TestPurchaseCopy",
+        "children" : [ {
+          "name" : "采购单复制成功",
+          "uid" : "212c7b275d85fff5",
+          "parentUid" : "1a263151da7ebdc39df952ab02ac772c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654831783623,
+            "stop" : 1654831856154,
+            "duration" : 72531
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1a263151da7ebdc39df952ab02ac772c"
+      } ],
+      "uid" : "4a913818d8764ea5d440105c218d8286"
+    }, {
+      "name" : "test_deliveryNotice",
+      "children" : [ {
+        "name" : "TestDelivery",
+        "children" : [ {
+          "name" : "单个送货通知单",
+          "uid" : "2a19a1bdefb07c8b",
+          "parentUid" : "95602f2625a341e00d770cff0bdcd062",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654831879759,
+            "stop" : 1654831931140,
+            "duration" : 51381
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "95602f2625a341e00d770cff0bdcd062"
+      } ],
+      "uid" : "36d03c04a4e69d9581208e7d92c3aa9e"
+    }, {
+      "name" : "test_productCreation",
+      "children" : [ {
+        "name" : "TestProductCreation",
+        "children" : [ {
+          "name" : "商品创建成功",
+          "uid" : "e759d85083615ca2",
+          "parentUid" : "992a09f2412d964fc0082134ba9a20f8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654831948470,
+            "stop" : 1654832000828,
+            "duration" : 52358
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "992a09f2412d964fc0082134ba9a20f8"
+      } ],
+      "uid" : "b3c4d63d0afe3e739f84c58180998bd1"
+    }, {
+      "name" : "test_itemCreation",
+      "children" : [ {
+        "name" : "TestItemCreation",
+        "children" : [ {
+          "name" : "货品创建成功",
+          "uid" : "77599186ced87330",
+          "parentUid" : "6e8deb1558080ae1588a262dbf86e36f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654832020009,
+            "stop" : 1654832058392,
+            "duration" : 38383
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6e8deb1558080ae1588a262dbf86e36f"
+      } ],
+      "uid" : "8c85f8897d1311aa2f009899ea36d56e"
+    }, {
+      "name" : "test_purchasePrice",
+      "children" : [ {
+        "name" : "TestPurchasePrice",
+        "children" : [ {
+          "name" : "外部采购价创建成功",
+          "uid" : "31bcd15c073739ba",
+          "parentUid" : "2e326a95f24d4d89bc65b67a9324c918",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654832077796,
+            "stop" : 1654832129134,
+            "duration" : 51338
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2e326a95f24d4d89bc65b67a9324c918"
+      } ],
+      "uid" : "b4cb948c203a238f5e823e30ae13c2ed"
+    }, {
+      "name" : "test_inventoryAdjustment",
+      "children" : [ {
+        "name" : "TestInventoryAdjustment",
+        "children" : [ {
+          "name" : "库存调整成功",
+          "uid" : "52b718ab38ba6859",
+          "parentUid" : "b631e43f09e0047d52505e7f55dba28a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654832146624,
+            "stop" : 1654832204700,
+            "duration" : 58076
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b631e43f09e0047d52505e7f55dba28a"
+      } ],
+      "uid" : "2246f8aa58f6c809f3d03ada0d6cb4d0"
+    } ],
+    "uid" : "45c6c0641e9c1fa7e44cd0d2b7e3ecfc"
+  } ]
+}

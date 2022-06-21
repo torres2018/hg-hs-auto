@@ -1,0 +1,162 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testCases",
+    "children" : [ {
+      "name" : "test_supplierCreation",
+      "children" : [ {
+        "name" : "供应商创建成功",
+        "uid" : "5ad74c157cd222fb",
+        "parentUid" : "746c08cb0f262f6e3726fc2def83d66e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654831493494,
+          "stop" : 1654831563569,
+          "duration" : 70075
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "746c08cb0f262f6e3726fc2def83d66e"
+    }, {
+      "name" : "test_applicationForm",
+      "children" : [ {
+        "name" : "AR余额增加与冲减",
+        "uid" : "2b4f57709dd1e56c",
+        "parentUid" : "0203c407f868b352e3115d027d8181c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654831581430,
+          "stop" : 1654831631984,
+          "duration" : 50554
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0203c407f868b352e3115d027d8181c9"
+    }, {
+      "name" : "test_purchaseCreate",
+      "children" : [ {
+        "name" : "采购单创建成功",
+        "uid" : "e0146baccb300b98",
+        "parentUid" : "7f4de98009dcab9e73e26ac88c4ac700",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654831650317,
+          "stop" : 1654831764050,
+          "duration" : 113733
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7f4de98009dcab9e73e26ac88c4ac700"
+    }, {
+      "name" : "test_purchaseCopy",
+      "children" : [ {
+        "name" : "采购单复制成功",
+        "uid" : "212c7b275d85fff5",
+        "parentUid" : "b81c50fc6dfc86d6b40847783c247b9a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654831783623,
+          "stop" : 1654831856154,
+          "duration" : 72531
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b81c50fc6dfc86d6b40847783c247b9a"
+    }, {
+      "name" : "test_deliveryNotice",
+      "children" : [ {
+        "name" : "单个送货通知单",
+        "uid" : "2a19a1bdefb07c8b",
+        "parentUid" : "dd7e0267f8fe63f60978b48fb284bc9f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654831879759,
+          "stop" : 1654831931140,
+          "duration" : 51381
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dd7e0267f8fe63f60978b48fb284bc9f"
+    }, {
+      "name" : "test_productCreation",
+      "children" : [ {
+        "name" : "商品创建成功",
+        "uid" : "e759d85083615ca2",
+        "parentUid" : "b9a7d49bc2cfb2539241772c8bf23ea8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654831948470,
+          "stop" : 1654832000828,
+          "duration" : 52358
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b9a7d49bc2cfb2539241772c8bf23ea8"
+    }, {
+      "name" : "test_itemCreation",
+      "children" : [ {
+        "name" : "货品创建成功",
+        "uid" : "77599186ced87330",
+        "parentUid" : "0f3eedbe91cc6b4744ea1d2ee7cb55c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654832020009,
+          "stop" : 1654832058392,
+          "duration" : 38383
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0f3eedbe91cc6b4744ea1d2ee7cb55c0"
+    }, {
+      "name" : "test_purchasePrice",
+      "children" : [ {
+        "name" : "外部采购价创建成功",
+        "uid" : "31bcd15c073739ba",
+        "parentUid" : "33f043ed343550d50b5d38e720511faf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654832077796,
+          "stop" : 1654832129134,
+          "duration" : 51338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "33f043ed343550d50b5d38e720511faf"
+    }, {
+      "name" : "test_inventoryAdjustment",
+      "children" : [ {
+        "name" : "库存调整成功",
+        "uid" : "52b718ab38ba6859",
+        "parentUid" : "5ae187779f6a230f44f19fbbae8ae160",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654832146624,
+          "stop" : 1654832204700,
+          "duration" : 58076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5ae187779f6a230f44f19fbbae8ae160"
+    } ],
+    "uid" : "cfc8e8fdd97a2be9c902f7e7586bd330"
+  } ]
+}

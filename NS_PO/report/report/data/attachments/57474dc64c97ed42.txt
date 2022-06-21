@@ -1,0 +1,25 @@
+INFO     TestMyLog:BasePage.py:305 数据读取成功
+INFO     TestMyLog:BasePage.py:45 等待时长:0.04 秒
+INFO     TestMyLog:BasePage.py:75 采购单号 查找元素 ('css selector', '#search_po_number')
+INFO     TestMyLog:BasePage.py:100 采购单号 在元素 ('css selector', '#search_po_number') 中输入文本: PO000013663
+INFO     TestMyLog:BasePage.py:45 等待时长:0.04 秒
+INFO     TestMyLog:BasePage.py:75 搜索 查找元素 ('css selector', '#search')
+INFO     TestMyLog:BasePage.py:127 搜索 在元素 ('css selector', '#search') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:14.30 秒
+INFO     TestMyLog:BasePage.py:75 日期 查找元素 ('css selector', '#send_time')
+INFO     TestMyLog:BasePage.py:100 日期 在元素 ('css selector', '#send_time') 中输入文本: 2022-06-10
+INFO     TestMyLog:BasePage.py:45 等待时长:0.20 秒
+INFO     TestMyLog:BasePage.py:75 清除发货数量 查找元素 ('css selector', '#custpage_sendquantity1_formattedValue')
+INFO     TestMyLog:BasePage.py:113 清除发货数量 在元素 ('css selector', '#custpage_sendquantity1_formattedValue') 中清除
+INFO     TestMyLog:BasePage.py:75 重新输入发货数量 查找元素 ('css selector', '#custpage_sendquantity1_formattedValue')
+INFO     TestMyLog:BasePage.py:100 重新输入发货数量 在元素 ('css selector', '#custpage_sendquantity1_formattedValue') 中输入文本: 100
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 提交 查找元素 ('css selector', '#submitter')
+INFO     TestMyLog:BasePage.py:127 提交 在元素 ('css selector', '#submitter') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 刷新 查找元素 ('css selector', '#custpage_refresh')
+INFO     TestMyLog:BasePage.py:127 刷新 在元素 ('css selector', '#custpage_refresh') 中点击
+INFO     TestMyLog:BasePage.py:45 等待时长:0.02 秒
+INFO     TestMyLog:BasePage.py:75 送货通知单号 查找元素 ('css selector', '#info_listrow0 > td:nth-child(6)')
+INFO     TestMyLog:BasePage.py:163 送货通知单号 在元素 ('css selector', '#info_listrow0 > td:nth-child(6)') 中获取文本
+INFO     TestMyLog:BasePage.py:166 送货通知单号 元素 ('css selector', '#info_listrow0 > td:nth-child(6)') 的文本内容为 JH2206100002

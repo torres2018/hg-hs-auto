@@ -1,0 +1,162 @@
+2022-05-31 15:36:49,287 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:36:49,287 - TestMyLog - INFO - 新建供应商 查找元素 ('css selector', '#new')
+2022-05-31 15:36:49,294 - TestMyLog - INFO - 新建供应商 在元素 ('css selector', '#new') 中点击
+2022-05-31 15:36:58,540 - TestMyLog - INFO - 等待时长:0.09 秒
+2022-05-31 15:36:58,541 - TestMyLog - INFO - 公司名称 查找元素 ('css selector', '#companyname')
+2022-05-31 15:36:58,568 - TestMyLog - INFO - 公司名称 在元素 ('css selector', '#companyname') 中输入文本: LLJ专用202205311536
+2022-05-31 15:37:00,701 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 15:37:00,702 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_custentity_hg_vend_type2_arrow')
+2022-05-31 15:37:00,713 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_custentity_hg_vend_type2_arrow') 中点击
+2022-05-31 15:37:00,892 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:00,893 - TestMyLog - INFO - 选择供应商类别 查找元素 ('css selector', '#nl6')
+2022-05-31 15:37:00,899 - TestMyLog - INFO - 选择供应商类别 在元素 ('css selector', '#nl6') 中点击
+2022-05-31 15:37:03,050 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-05-31 15:37:03,051 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_custentity_hq_pinpai1_fs > a:nth-child(2)')
+2022-05-31 15:37:03,063 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_custentity_hq_pinpai1_fs > a:nth-child(2)') 中点击
+2022-05-31 15:37:03,142 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:03,142 - TestMyLog - INFO - 列表 查找元素 ('css selector', '#custentity_hq_pinpai1_popup_list')
+2022-05-31 15:37:03,149 - TestMyLog - INFO - 列表 在元素 ('css selector', '#custentity_hq_pinpai1_popup_list') 中点击
+2022-05-31 15:37:04,343 - TestMyLog - INFO - 等待时长:1.08 秒
+2022-05-31 15:37:04,343 - TestMyLog - INFO - 输入品牌 查找元素 ('css selector', '#st')
+2022-05-31 15:37:04,348 - TestMyLog - INFO - 输入品牌 在元素 ('css selector', '#st') 中输入文本: Eleaf牌/依丽芙牌
+2022-05-31 15:37:06,471 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-05-31 15:37:06,472 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-05-31 15:37:06,483 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-05-31 15:37:08,626 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-05-31 15:37:08,626 - TestMyLog - INFO - 选择品牌 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+2022-05-31 15:37:08,637 - TestMyLog - INFO - 选择品牌 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+2022-05-31 15:37:08,744 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-05-31 15:37:08,745 - TestMyLog - INFO - 中文地址 查找元素 ('css selector', '#custentity_hg_china_address')
+2022-05-31 15:37:08,751 - TestMyLog - INFO - 中文地址 在元素 ('css selector', '#custentity_hg_china_address') 中输入文本: 上海普陀区长风公园
+2022-05-31 15:37:08,815 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:08,816 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_custentity_hg_zhuc_c_country_fs > a:nth-child(2)')
+2022-05-31 15:37:08,822 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_custentity_hg_zhuc_c_country_fs > a:nth-child(2)') 中点击
+2022-05-31 15:37:08,919 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-05-31 15:37:08,919 - TestMyLog - INFO - 列表 查找元素 ('css selector', '#custentity_hg_zhuc_c_country_popup_list')
+2022-05-31 15:37:08,925 - TestMyLog - INFO - 列表 在元素 ('css selector', '#custentity_hg_zhuc_c_country_popup_list') 中点击
+2022-05-31 15:37:09,994 - TestMyLog - INFO - 等待时长:0.91 秒
+2022-05-31 15:37:09,994 - TestMyLog - INFO - 输入注册国家 查找元素 ('css selector', '#st')
+2022-05-31 15:37:10,003 - TestMyLog - INFO - 输入注册国家 在元素 ('css selector', '#st') 中输入文本: China
+2022-05-31 15:37:12,084 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 15:37:12,085 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-05-31 15:37:12,099 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-05-31 15:37:14,223 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-05-31 15:37:14,223 - TestMyLog - INFO - 选择注册国家 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+2022-05-31 15:37:14,233 - TestMyLog - INFO - 选择注册国家 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+2022-05-31 15:37:14,351 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:14,351 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_custentity_hg_vendor_deli_mode3_arrow')
+2022-05-31 15:37:14,357 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_custentity_hg_vendor_deli_mode3_arrow') 中点击
+2022-05-31 15:37:14,492 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:14,493 - TestMyLog - INFO - 选择供货模式 查找元素 ('css selector', '#nl10')
+2022-05-31 15:37:14,500 - TestMyLog - INFO - 选择供货模式 在元素 ('css selector', '#nl10') 中点击
+2022-05-31 15:37:14,630 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 15:37:14,630 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_custentity14_arrow')
+2022-05-31 15:37:14,638 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_custentity14_arrow') 中点击
+2022-05-31 15:37:14,786 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-05-31 15:37:14,786 - TestMyLog - INFO - 选择货物来源 查找元素 ('css selector', '#nl15')
+2022-05-31 15:37:14,796 - TestMyLog - INFO - 选择货物来源 在元素 ('css selector', '#nl15') 中点击
+2022-05-31 15:37:14,903 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:14,903 - TestMyLog - INFO - 退货地址 查找元素 ('css selector', '#custentity_hg_caigou_tuihuo')
+2022-05-31 15:37:14,909 - TestMyLog - INFO - 退货地址 在元素 ('css selector', '#custentity_hg_caigou_tuihuo') 中输入文本: 英国伦敦
+2022-05-31 15:37:15,022 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 15:37:15,022 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#inpt_terms6_arrow')
+2022-05-31 15:37:15,036 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#inpt_terms6_arrow') 中点击
+2022-05-31 15:37:15,200 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:15,200 - TestMyLog - INFO - 选择结算方式 查找元素 ('css selector', '#nl19')
+2022-05-31 15:37:15,207 - TestMyLog - INFO - 选择结算方式 在元素 ('css selector', '#nl19') 中点击
+2022-05-31 15:37:15,319 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:15,320 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#custentity_hg_c_dsss_fs > span.uir-field-widget')
+2022-05-31 15:37:15,326 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#custentity_hg_c_dsss_fs > span.uir-field-widget') 上悬停
+2022-05-31 15:37:15,604 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#custentity_hg_c_dsss_fs > span.uir-field-widget')
+2022-05-31 15:37:15,612 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#custentity_hg_c_dsss_fs > span.uir-field-widget') 中点击
+2022-05-31 15:37:16,532 - TestMyLog - INFO - 等待时长:0.86 秒
+2022-05-31 15:37:16,532 - TestMyLog - INFO - 输入货币 查找元素 ('css selector', '#st')
+2022-05-31 15:37:16,539 - TestMyLog - INFO - 输入货币 在元素 ('css selector', '#st') 中输入文本: CNY
+2022-05-31 15:37:18,616 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 15:37:18,617 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-05-31 15:37:18,627 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-05-31 15:37:20,742 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:20,742 - TestMyLog - INFO - 选择货币 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a')
+2022-05-31 15:37:20,749 - TestMyLog - INFO - 选择货币 在元素 ('css selector', '#inner_popup_div > table > tbody > tr > td:nth-child(2) > a') 中点击
+2022-05-31 15:37:22,856 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-05-31 15:37:22,857 - TestMyLog - INFO - 更新 查找元素 ('css selector', '#update')
+2022-05-31 15:37:22,869 - TestMyLog - INFO - 更新 在元素 ('css selector', '#update') 中点击
+2022-05-31 15:37:25,035 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 15:37:25,035 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#custentity_hg_department_vend_popup_list')
+2022-05-31 15:37:25,044 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#custentity_hg_department_vend_popup_list') 上悬停
+2022-05-31 15:37:25,331 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#custentity_hg_department_vend_popup_list')
+2022-05-31 15:37:25,340 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#custentity_hg_department_vend_popup_list') 中点击
+2022-05-31 15:37:26,467 - TestMyLog - INFO - 等待时长:1.08 秒
+2022-05-31 15:37:26,468 - TestMyLog - INFO - 输入部门 查找元素 ('css selector', '#st')
+2022-05-31 15:37:26,476 - TestMyLog - INFO - 输入部门 在元素 ('css selector', '#st') 中输入文本: B2B事业部
+2022-05-31 15:37:28,554 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-05-31 15:37:28,554 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-05-31 15:37:28,565 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-05-31 15:37:30,697 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:30,697 - TestMyLog - INFO - 选择部门 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a')
+2022-05-31 15:37:30,703 - TestMyLog - INFO - 选择部门 在元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a') 中点击
+2022-05-31 15:37:32,794 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-05-31 15:37:32,795 - TestMyLog - INFO - 更新 查找元素 ('css selector', '#update')
+2022-05-31 15:37:32,809 - TestMyLog - INFO - 更新 在元素 ('css selector', '#update') 中点击
+2022-05-31 15:37:32,926 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:32,927 - TestMyLog - INFO - 收件人 查找元素 ('css selector', '#custentity_vendor_receiver')
+2022-05-31 15:37:32,932 - TestMyLog - INFO - 收件人 在元素 ('css selector', '#custentity_vendor_receiver') 中输入文本: 李连军
+2022-05-31 15:37:33,070 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:33,070 - TestMyLog - INFO - 城市 查找元素 ('css selector', '#custentity_vendor_city')
+2022-05-31 15:37:33,076 - TestMyLog - INFO - 城市 在元素 ('css selector', '#custentity_vendor_city') 中输入文本: 上海
+2022-05-31 15:37:33,208 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 15:37:33,209 - TestMyLog - INFO - 地址 查找元素 ('css selector', '#custentity_vendor_location')
+2022-05-31 15:37:33,219 - TestMyLog - INFO - 地址 在元素 ('css selector', '#custentity_vendor_location') 中输入文本: 南翔
+2022-05-31 15:37:33,337 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-05-31 15:37:33,337 - TestMyLog - INFO - 州、省 查找元素 ('css selector', '#custentity_vendor_province')
+2022-05-31 15:37:33,344 - TestMyLog - INFO - 州、省 在元素 ('css selector', '#custentity_vendor_province') 中输入文本: 祥和雅苑
+2022-05-31 15:37:33,464 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:33,464 - TestMyLog - INFO - 邮编 查找元素 ('css selector', '#custentity_vendor_zipcode')
+2022-05-31 15:37:33,469 - TestMyLog - INFO - 邮编 在元素 ('css selector', '#custentity_vendor_zipcode') 中输入文本: 66666666
+2022-05-31 15:37:33,585 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:33,585 - TestMyLog - INFO - 电话 查找元素 ('css selector', '#custentity_vendor_phone_number')
+2022-05-31 15:37:33,592 - TestMyLog - INFO - 电话 在元素 ('css selector', '#custentity_vendor_phone_number') 中输入文本: 15601608610
+2022-05-31 15:37:33,727 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:33,727 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_custentity_vendor_country_fs > a:nth-child(2)')
+2022-05-31 15:37:33,735 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_custentity_vendor_country_fs > a:nth-child(2)') 中点击
+2022-05-31 15:37:33,836 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:33,837 - TestMyLog - INFO - 列表 查找元素 ('css selector', '#custentity_vendor_country_popup_list')
+2022-05-31 15:37:33,844 - TestMyLog - INFO - 列表 在元素 ('css selector', '#custentity_vendor_country_popup_list') 中点击
+2022-05-31 15:37:35,093 - TestMyLog - INFO - 等待时长:1.09 秒
+2022-05-31 15:37:35,094 - TestMyLog - INFO - 输入收件国家 查找元素 ('css selector', '#st')
+2022-05-31 15:37:35,098 - TestMyLog - INFO - 输入收件国家 在元素 ('css selector', '#st') 中输入文本: 中国
+2022-05-31 15:37:37,191 - TestMyLog - INFO - 等待时长:0.05 秒
+2022-05-31 15:37:37,192 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-05-31 15:37:37,205 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-05-31 15:37:39,314 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 15:37:39,315 - TestMyLog - INFO - 选择收件国家 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a')
+2022-05-31 15:37:39,324 - TestMyLog - INFO - 选择收件国家 在元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a') 中点击
+2022-05-31 15:37:39,448 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:39,448 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_custentity_hg_sol_unite_fs > a:nth-child(2)')
+2022-05-31 15:37:39,454 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_custentity_hg_sol_unite_fs > a:nth-child(2)') 中点击
+2022-05-31 15:37:39,523 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-05-31 15:37:39,523 - TestMyLog - INFO - 列表 查找元素 ('css selector', '#custentity_hg_sol_unite_popup_list')
+2022-05-31 15:37:39,534 - TestMyLog - INFO - 列表 在元素 ('css selector', '#custentity_hg_sol_unite_popup_list') 中点击
+2022-05-31 15:37:40,623 - TestMyLog - INFO - 等待时长:0.96 秒
+2022-05-31 15:37:40,623 - TestMyLog - INFO - 输入统一计量单位 查找元素 ('css selector', '#st')
+2022-05-31 15:37:40,629 - TestMyLog - INFO - 输入统一计量单位 在元素 ('css selector', '#st') 中输入文本: 个
+2022-05-31 15:37:42,708 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 15:37:42,708 - TestMyLog - INFO - 搜索 查找元素 ('css selector', '#Search')
+2022-05-31 15:37:42,721 - TestMyLog - INFO - 搜索 在元素 ('css selector', '#Search') 中点击
+2022-05-31 15:37:44,829 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 15:37:44,830 - TestMyLog - INFO - 选择统一计量单位 查找元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a')
+2022-05-31 15:37:44,841 - TestMyLog - INFO - 选择统一计量单位 在元素 ('css selector', '#inner_popup_div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a') 中点击
+2022-05-31 15:37:46,994 - TestMyLog - INFO - 等待时长:0.04 秒
+2022-05-31 15:37:46,995 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_subsidiary_fs > a:nth-child(2)')
+2022-05-31 15:37:47,004 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_subsidiary_fs > a:nth-child(2)') 上悬停
+2022-05-31 15:37:47,294 - TestMyLog - INFO - 下拉 查找元素 ('css selector', '#parent_actionbuttons_subsidiary_fs > a:nth-child(2)')
+2022-05-31 15:37:47,300 - TestMyLog - INFO - 下拉 在元素 ('css selector', '#parent_actionbuttons_subsidiary_fs > a:nth-child(2)') 中点击
+2022-05-31 15:38:08,309 - TestMyLog - ERROR - 列表 等待元素可见失败:('css selector', '#subsidiary_popup_list')
+Traceback (most recent call last):
+  File "F:\HS\UI测试-NS\Common\BasePage.py", line 39, in wait_eleVisible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-05-31 15:38:08,485 - TestMyLog - INFO - 截屏成功,图片路径为F:\HS\UI测试-NS\NS_PO\TestNS\Imgs\列表_202205311538.png

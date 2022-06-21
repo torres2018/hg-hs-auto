@@ -1,0 +1,111 @@
+{
+  "uid" : "2b4f57709dd1e56c",
+  "name" : "AR余额增加与冲减",
+  "fullName" : "testCases.test_applicationForm.TestApplicationForm#test_application_form",
+  "historyId" : "e429221c6839cda9d27caf13548b01a1",
+  "time" : {
+    "start" : 1654831581430,
+    "stop" : 1654831631984,
+    "duration" : 50554
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_success",
+    "time" : {
+      "start" : 1654831566092,
+      "stop" : 1654831581430,
+      "duration" : 15338
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b61baf099fbcd7f0",
+      "name" : "log",
+      "source" : "b61baf099fbcd7f0.txt",
+      "type" : "text/plain",
+      "size" : 5392
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "login_success::0",
+    "time" : {
+      "start" : 1654831631985,
+      "stop" : 1654831634386,
+      "duration" : 2401
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "Minor"
+  }, {
+    "name" : "feature",
+    "value" : "AR申请单流程"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_applicationForm"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApplicationForm"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-6TQSQF5"
+  }, {
+    "name" : "thread",
+    "value" : "7200-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testCases.test_applicationForm"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "2b4f57709dd1e56c.json",
+  "parameterValues" : [ ]
+}
