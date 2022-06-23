@@ -33,7 +33,6 @@ class basePage:
         :param model:等待失败时,截图操作,图片文件中需要表达的功能标注
         :return:None
         """
-        logging.info('{} 等待元素可见:{}'.format(model, loc))
         try:
             start = time.time()
             WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(loc))
@@ -43,6 +42,7 @@ class basePage:
             '''presence_of_element_located的校验程度轻一些，在页面跳转之后判断某种标志是否出现用这个快一些；特殊情况下校验无边框的元素也会用到这个'''
             end = time.time()
             MyLog.info('等待时长:%.2f 秒' % (end - start))
+            MyLog.info('{} 等待元素可见:{}'.format(model, loc))
         except:
             MyLog.exception('{} 等待元素可见失败:{}'.format(model, loc))
             # 截图
@@ -58,12 +58,12 @@ class basePage:
         :param model:等待失败时,截图操作,图片文件中需要表达的功能标注
         :return:None
         """
-        logging.info('{} 等待元素不可见:{}'.format(model, loc))
         try:
             start = time.time()
             WebDriverWait(self.driver, timeout, poll_frequency).until_not(EC.visibility_of_element_located(loc))
             end = time.time()
             MyLog.info('等待时长:%.2f 秒' % (end - start))
+            MyLog.info('{} 等待元素不可见:{}'.format(model, loc))
         except:
             MyLog.exception('{} 等待元素不可见失败:{}'.format(model, loc))
             # 截图
