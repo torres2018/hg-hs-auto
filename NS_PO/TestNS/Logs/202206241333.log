@@ -1,0 +1,42 @@
+2022-06-24 13:34:19,281 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-06-24 13:34:19,282 - TestMyLog - INFO - 客户名称 等待元素可见:('css selector', '#custrecord_hg_cus_cusname_display')
+2022-06-24 13:34:19,282 - TestMyLog - INFO - 客户名称 查找元素 ('css selector', '#custrecord_hg_cus_cusname_display')
+2022-06-24 13:34:19,289 - TestMyLog - INFO - 客户名称 在元素 ('css selector', '#custrecord_hg_cus_cusname_display') 中输入文本: CU000024813 HG-UI测试专用
+2022-06-24 13:34:22,464 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-06-24 13:34:22,464 - TestMyLog - INFO - 申请类型 等待元素可见:('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow')
+2022-06-24 13:34:22,465 - TestMyLog - INFO - 申请类型 查找元素 ('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow')
+2022-06-24 13:34:22,473 - TestMyLog - INFO - 申请类型 在元素 ('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow') 中点击
+2022-06-24 13:34:22,632 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-24 13:34:22,633 - TestMyLog - INFO - 信用额度发货 等待元素可见:('css selector', '#nl4')
+2022-06-24 13:34:22,633 - TestMyLog - INFO - 信用额度发货 查找元素 ('css selector', '#nl4')
+2022-06-24 13:34:22,641 - TestMyLog - INFO - 信用额度发货 在元素 ('css selector', '#nl4') 中点击
+2022-06-24 13:34:23,830 - TestMyLog - INFO - 等待时长:1.11 秒
+2022-06-24 13:34:23,831 - TestMyLog - INFO - 申请金额 等待元素可见:('css selector', '#custrecord_hg_cus_changecredit_formattedValue')
+2022-06-24 13:34:23,831 - TestMyLog - INFO - 申请金额 查找元素 ('css selector', '#custrecord_hg_cus_changecredit_formattedValue')
+2022-06-24 13:34:23,837 - TestMyLog - INFO - 申请金额 在元素 ('css selector', '#custrecord_hg_cus_changecredit_formattedValue') 中输入文本: 1000
+2022-06-24 13:34:23,911 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-24 13:34:23,911 - TestMyLog - INFO - 到期时间 等待元素可见:('css selector', '#custrecord_hg_cus_rq')
+2022-06-24 13:34:23,911 - TestMyLog - INFO - 到期时间 查找元素 ('css selector', '#custrecord_hg_cus_rq')
+2022-06-24 13:34:23,917 - TestMyLog - INFO - 到期时间 在元素 ('css selector', '#custrecord_hg_cus_rq') 中输入文本: 2025-02-16
+2022-06-24 13:34:28,058 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-06-24 13:34:28,058 - TestMyLog - INFO - 备注说明 等待元素可见:('css selector', '#cke_1_contents')
+2022-06-24 13:34:30,066 - TestMyLog - INFO - 备注说明 查找元素 ('css selector', '#cke_1_contents')
+2022-06-24 13:34:30,103 - TestMyLog - INFO - 备注说明 在元素 ('css selector', '#cke_1_contents') 上悬停
+2022-06-24 13:34:30,394 - TestMyLog - INFO - 备注说明 查找元素 ('css selector', '#cke_1_contents')
+2022-06-24 13:34:30,402 - TestMyLog - INFO - 备注说明 在元素 ('css selector', '#cke_1_contents') 中输入文本: hello
+2022-06-24 13:34:30,445 - TestMyLog - ERROR - 输入操作失败
+Traceback (most recent call last):
+  File "F:\HS\UI测试-NS\Common\BasePage.py", line 102, in input_Text
+    ele.send_keys(text)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webelement.py", line 479, in send_keys
+    'value': keys_to_typing(value)})
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-24 13:34:30,628 - TestMyLog - INFO - 截屏成功,图片路径为F:\HS\UI测试-NS\NS_PO\TestNS\Imgs\备注说明_202206241334.png

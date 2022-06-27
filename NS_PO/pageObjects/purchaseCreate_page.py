@@ -48,6 +48,8 @@ class PurchaseCreatePage(basePage):
         # 03.结算方式
         self.wait_eleVisible(loc.drop_down_c, model='下拉')
         self.click_Element(loc.drop_down_c, model='下拉')
+        self.wait_eleVisible(loc.list_c, model='点击列表')
+        self.click_Element(loc.list_c, model='点击列表')
         self.wait_eleVisible(loc.settlementMethod, model='结算方式')
         self.click_Element(loc.settlementMethod, model='结算方式')
 
@@ -124,6 +126,10 @@ class PurchaseCreatePage(basePage):
         # 交付日期
         self.wait_eleVisible(loc.deliveryDate, model='交付日期')
         self.input_Text(loc.deliveryDate, text=date, model='交付日期')
+
+        # 期望日期
+        self.wait_eleVisible(loc.expectDate, model='交付日期')
+        self.input_Text(loc.expectDate, text=date, model='交付日期')
 
         # 保存
         time.sleep(2)

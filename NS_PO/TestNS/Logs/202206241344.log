@@ -1,0 +1,30 @@
+2022-06-24 13:44:29,182 - TestMyLog - INFO - 等待时长:0.08 秒
+2022-06-24 13:44:29,182 - TestMyLog - INFO - 客户名称 等待元素可见:('css selector', '#custrecord_hg_cus_cusname_display')
+2022-06-24 13:44:29,182 - TestMyLog - INFO - 客户名称 查找元素 ('css selector', '#custrecord_hg_cus_cusname_display')
+2022-06-24 13:44:29,189 - TestMyLog - INFO - 客户名称 在元素 ('css selector', '#custrecord_hg_cus_cusname_display') 中输入文本: CU000024813 HG-UI测试专用
+2022-06-24 13:44:32,362 - TestMyLog - INFO - 等待时长:0.07 秒
+2022-06-24 13:44:32,362 - TestMyLog - INFO - 申请类型 等待元素可见:('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow')
+2022-06-24 13:44:32,363 - TestMyLog - INFO - 申请类型 查找元素 ('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow')
+2022-06-24 13:44:32,372 - TestMyLog - INFO - 申请类型 在元素 ('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow') 中点击
+2022-06-24 13:44:32,539 - TestMyLog - INFO - 等待时长:0.03 秒
+2022-06-24 13:44:32,539 - TestMyLog - INFO - 信用额度发货 等待元素可见:('css selector', '#nl4')
+2022-06-24 13:44:32,539 - TestMyLog - INFO - 信用额度发货 查找元素 ('css selector', '#nl4')
+2022-06-24 13:44:32,547 - TestMyLog - INFO - 信用额度发货 在元素 ('css selector', '#nl4') 中点击
+2022-06-24 13:44:33,847 - TestMyLog - INFO - 等待时长:1.21 秒
+2022-06-24 13:44:33,847 - TestMyLog - INFO - 申请金额 等待元素可见:('css selector', '#custrecord_hg_cus_changecredit_formattedValue')
+2022-06-24 13:44:33,847 - TestMyLog - INFO - 申请金额 查找元素 ('css selector', '#custrecord_hg_cus_changecredit_formattedValue')
+2022-06-24 13:44:33,853 - TestMyLog - INFO - 申请金额 在元素 ('css selector', '#custrecord_hg_cus_changecredit_formattedValue') 中输入文本: 1000
+2022-06-24 13:44:33,934 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-24 13:44:33,934 - TestMyLog - INFO - 到期时间 等待元素可见:('css selector', '#custrecord_hg_cus_rq')
+2022-06-24 13:44:33,934 - TestMyLog - INFO - 到期时间 查找元素 ('css selector', '#custrecord_hg_cus_rq')
+2022-06-24 13:44:33,940 - TestMyLog - INFO - 到期时间 在元素 ('css selector', '#custrecord_hg_cus_rq') 中输入文本: 2025-02-16
+2022-06-24 13:44:38,031 - TestMyLog - INFO - iframe 切换操作:
+2022-06-24 13:44:58,471 - TestMyLog - ERROR - iframe 切换失败!!!
+Traceback (most recent call last):
+  File "F:\HS\UI测试-NS\Common\BasePage.py", line 196, in switch_iframe
+    EC.frame_to_be_available_and_switch_to_it(frame_refer))
+  File "D:\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-06-24 13:44:58,655 - TestMyLog - INFO - 截屏成功,图片路径为F:\HS\UI测试-NS\NS_PO\TestNS\Imgs\None_202206241344.png

@@ -17,8 +17,8 @@ class ApplicationFormLocator:
     expiration_time = (By.CSS_SELECTOR, '#custrecord_hg_cus_rq')
 
     # 05.备注说明【富文本】
-    frame_loc = 'cke_custrecord_hg_cus_remarks'  # 切换到目标frame
-    remarks = (By.CSS_SELECTOR, '#cke_1_contents > div')
+    frame_loc = (By.CSS_SELECTOR, '#cke_1_contents > iframe')  # 切换到目标frame
+    remarks = (By.XPATH, '/html/body')
 
     # 切换到默认页面
 

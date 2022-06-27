@@ -1,0 +1,32 @@
+2022-06-24 14:05:56,529 - TestMyLog - INFO - 等待时长:0.06 秒
+2022-06-24 14:05:56,530 - TestMyLog - INFO - 客户名称 等待元素可见:('css selector', '#custrecord_hg_cus_cusname_display')
+2022-06-24 14:05:56,530 - TestMyLog - INFO - 客户名称 查找元素 ('css selector', '#custrecord_hg_cus_cusname_display')
+2022-06-24 14:05:56,539 - TestMyLog - INFO - 客户名称 在元素 ('css selector', '#custrecord_hg_cus_cusname_display') 中输入文本: CU000024813 HG-UI测试专用
+2022-06-24 14:05:59,722 - TestMyLog - INFO - 等待时长:0.07 秒
+2022-06-24 14:05:59,723 - TestMyLog - INFO - 申请类型 等待元素可见:('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow')
+2022-06-24 14:05:59,724 - TestMyLog - INFO - 申请类型 查找元素 ('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow')
+2022-06-24 14:05:59,732 - TestMyLog - INFO - 申请类型 在元素 ('css selector', '#inpt_custrecord_hg_cus_sqlx3_arrow') 中点击
+2022-06-24 14:05:59,882 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-24 14:05:59,882 - TestMyLog - INFO - 信用额度发货 等待元素可见:('css selector', '#nl4')
+2022-06-24 14:05:59,883 - TestMyLog - INFO - 信用额度发货 查找元素 ('css selector', '#nl4')
+2022-06-24 14:05:59,888 - TestMyLog - INFO - 信用额度发货 在元素 ('css selector', '#nl4') 中点击
+2022-06-24 14:05:59,985 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-24 14:05:59,985 - TestMyLog - INFO - 申请金额 等待元素可见:('css selector', '#custrecord_hg_cus_changecredit_formattedValue')
+2022-06-24 14:05:59,985 - TestMyLog - INFO - 申请金额 查找元素 ('css selector', '#custrecord_hg_cus_changecredit_formattedValue')
+2022-06-24 14:05:59,993 - TestMyLog - INFO - 申请金额 在元素 ('css selector', '#custrecord_hg_cus_changecredit_formattedValue') 中输入文本: 1000
+2022-06-24 14:06:00,085 - TestMyLog - INFO - 等待时长:0.02 秒
+2022-06-24 14:06:00,085 - TestMyLog - INFO - 到期时间 等待元素可见:('css selector', '#custrecord_hg_cus_rq')
+2022-06-24 14:06:00,085 - TestMyLog - INFO - 到期时间 查找元素 ('css selector', '#custrecord_hg_cus_rq')
+2022-06-24 14:06:00,093 - TestMyLog - INFO - 到期时间 在元素 ('css selector', '#custrecord_hg_cus_rq') 中输入文本: 2025-02-16
+2022-06-24 14:06:03,180 - TestMyLog - INFO - None 查找元素 ('css selector', '#cke_1_contents > iframe')
+2022-06-24 14:06:03,221 - TestMyLog - INFO - iframe 切换操作:
+2022-06-24 14:06:06,267 - TestMyLog - INFO - 切换成功
+2022-06-24 14:06:26,819 - TestMyLog - ERROR - 备注说明 等待元素可见失败:('css selector', '#cke_editable cke_editable_themed cke_contents_ltr cke_show_borders')
+Traceback (most recent call last):
+  File "F:\HS\UI测试-NS\Common\BasePage.py", line 38, in wait_eleVisible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-06-24 14:06:27,032 - TestMyLog - INFO - 截屏成功,图片路径为F:\HS\UI测试-NS\NS_PO\TestNS\Imgs\备注说明_202206241406.png

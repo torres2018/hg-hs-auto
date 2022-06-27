@@ -31,12 +31,13 @@ class PurchaseCreateLocator:
     purchase_quantity = (By.XPATH, '//*[@id="quantity_formattedValue"]')
 
     # 03.结算方式
-    drop_down_c = (By.XPATH, '//*[@id="inpt_settlement_method5_arrow"]')
-    settlementMethod = (By.XPATH, '//*[@id="nl74"]')
+    drop_down_c = (By.XPATH, '//*[@id="parent_actionbuttons_settlement_method_fs"]/a[2]')
+    list_c = (By.XPATH, '//*[@id="settlement_method_popup_list"]')
+    settlementMethod = (By.XPATH, '//*[@id="inner_popup_div"]/table/tbody/tr[1]/td[2]/a')
 
     # 04.供货模式
-    drop_down_d = (By.XPATH, '//*[@id="inpt_supply_mode6_arrow"]')
-    deliveryOfGoods = (By.XPATH, '//*[@id="nl91"]')
+    drop_down_d = (By.XPATH, '//*[@id="inpt_supply_mode5_arrow"]')
+    deliveryOfGoods = (By.XPATH, '//*[@id="nl72"]')
 
     # 05.添加至PO购物车
     submit = (By.XPATH, '//*[@id="submitter"]')
@@ -78,6 +79,9 @@ class PurchaseCreateLocator:
 
     # 3.交付日期
     deliveryDate = (By.CSS_SELECTOR, '#custbody_hg_jiaof_fdate')
+
+    # 4.期望日期
+    expectDate = (By.CSS_SELECTOR, '#custbody_po_expect_date')
 
     # 4.保存
     preservePo = (By.CSS_SELECTOR, '#btn_secondarymultibutton_submitter')

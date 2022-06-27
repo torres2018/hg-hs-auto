@@ -26,12 +26,13 @@ class ApplicationFormPage(basePage):
         self.wait_eleVisible(loc.expiration_time, model='到期时间')
         self.input_Text(loc.expiration_time, text=date, model='到期时间')
 
-        # 05.备注说明【富文本】
+        # 05.备注说明【富文本：没有可用的id或者name属性时，可以先按照元素的定位方法，把frame找出来，再整体放到switch_to_frame()中】
         time.sleep(3)
-        # self.switch_iframe('cke_custrecord_hg_cus_remarks')#原ID:ext-gen57
+        ele = self.find_Element(loc.frame_loc)
+        self.switch_iframe(ele)
         self.wait_eleVisible(loc.remarks, model='备注说明')
         self.input_Text(loc.remarks, text=explain, model='备注说明')
-        time.sleep(2)
+        time.sleep(1)
         self.switch_window('default')
 
         # 06.保存
